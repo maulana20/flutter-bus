@@ -1,0 +1,5506 @@
+[
+  {
+    "terminal_id": 28672,
+    "terminal_name": "Grobogan"
+  },
+  {
+    "terminal_id": 28673,
+    "terminal_name": "Grobogan,Jawa Tengah"
+  },
+  {
+    "terminal_id": 28674,
+    "terminal_name": "Bandar Lampung"
+  },
+  {
+    "terminal_id": 28675,
+    "terminal_name": "Bandar Lampung,Lampung"
+  },
+  {
+    "terminal_id": 28676,
+    "terminal_name": "Lasem"
+  },
+  {
+    "terminal_id": 28677,
+    "terminal_name": "Lasem,Jawa Tengah"
+  },
+  {
+    "terminal_id": 28679,
+    "terminal_name": "Bekasi,DKI Jakarta"
+  },
+  {
+    "terminal_id": 43017,
+    "terminal_name": "Payakumbuh"
+  },
+  {
+    "terminal_id": 28689,
+    "terminal_name": "Rembang"
+  },
+  {
+    "terminal_id": 28690,
+    "terminal_name": "Rembang,Jawa Tengah"
+  },
+  {
+    "terminal_id": 28691,
+    "terminal_name": "Jakarta Barat"
+  },
+  {
+    "terminal_id": 28692,
+    "terminal_name": "Jakarta Barat,DKI Jakarta"
+  },
+  {
+    "terminal_id": 28693,
+    "terminal_name": "Jakarta Timur"
+  },
+  {
+    "terminal_id": 28694,
+    "terminal_name": "Jakarta Timur,DKI Jakarta"
+  },
+  {
+    "terminal_id": 28713,
+    "terminal_name": "Tayu"
+  },
+  {
+    "terminal_id": 28714,
+    "terminal_name": "Tayu,Pati"
+  },
+  {
+    "terminal_id": 28715,
+    "terminal_name": "Jakarta Selatan"
+  },
+  {
+    "terminal_id": 43058,
+    "terminal_name": "Padang Sterminal_idempuan"
+  },
+  {
+    "terminal_id": 43099,
+    "terminal_name": "Terminal Leuwiliang"
+  },
+  {
+    "terminal_id": 43163,
+    "terminal_name": "Blok Songo"
+  },
+  {
+    "terminal_id": 28836,
+    "terminal_name": "Daan Mogot"
+  },
+  {
+    "terminal_id": 28837,
+    "terminal_name": "Daan Mogot,DKI Jakarta"
+  },
+  {
+    "terminal_id": 28838,
+    "terminal_name": "Ciputat"
+  },
+  {
+    "terminal_id": 28839,
+    "terminal_name": "Ciputat,Banten"
+  },
+  {
+    "terminal_id": 28840,
+    "terminal_name": "Pulo Gebang"
+  },
+  {
+    "terminal_id": 28841,
+    "terminal_name": "Pulo Gebang,DKI Jakarta"
+  },
+  {
+    "terminal_id": 28842,
+    "terminal_name": "Cimone"
+  },
+  {
+    "terminal_id": 28843,
+    "terminal_name": "Cimone,Banten"
+  },
+  {
+    "terminal_id": 28844,
+    "terminal_name": "Ciputat"
+  },
+  {
+    "terminal_id": 28845,
+    "terminal_name": "Ciputat,DKI Jakarta"
+  },
+  {
+    "terminal_id": 28846,
+    "terminal_name": "Daan Mogot."
+  },
+  {
+    "terminal_id": 28847,
+    "terminal_name": "Daan Mogot,DKI Jakarta"
+  },
+  {
+    "terminal_id": 43189,
+    "terminal_name": "Simpang Kawat"
+  },
+  {
+    "terminal_id": 30909,
+    "terminal_name": "Pool Damri Kemayoran"
+  },
+  {
+    "terminal_id": 28862,
+    "terminal_name": "Kebumen"
+  },
+  {
+    "terminal_id": 30910,
+    "terminal_name": "Terminal Pulogebang"
+  },
+  {
+    "terminal_id": 28863,
+    "terminal_name": "Kebumen,Central Java"
+  },
+  {
+    "terminal_id": 30911,
+    "terminal_name": "Pool Damri Pelembang"
+  },
+  {
+    "terminal_id": 28864,
+    "terminal_name": "Kutoarjo"
+  },
+  {
+    "terminal_id": 30912,
+    "terminal_name": "Tugu Mulyo"
+  },
+  {
+    "terminal_id": 28865,
+    "terminal_name": "Kutoarjo,Central Java"
+  },
+  {
+    "terminal_id": 30913,
+    "terminal_name": "Pool Damri Lampung"
+  },
+  {
+    "terminal_id": 30914,
+    "terminal_name": "Rajabasa"
+  },
+  {
+    "terminal_id": 30915,
+    "terminal_name": "Bandarjaya"
+  },
+  {
+    "terminal_id": 30916,
+    "terminal_name": "Unit 2"
+  },
+  {
+    "terminal_id": 30917,
+    "terminal_name": "Simpang Pematang"
+  },
+  {
+    "terminal_id": 30918,
+    "terminal_name": "Gadang Jaya"
+  },
+  {
+    "terminal_id": 30922,
+    "terminal_name": "jalan Lintas jember"
+  },
+  {
+    "terminal_id": 30923,
+    "terminal_name": "Jalan Lintas Tanggul"
+  },
+  {
+    "terminal_id": 30924,
+    "terminal_name": "Jalan Lintas Blega"
+  },
+  {
+    "terminal_id": 30925,
+    "terminal_name": "Terminal Bus Ceguk"
+  },
+  {
+    "terminal_id": 30926,
+    "terminal_name": "Giriwoyo"
+  },
+  {
+    "terminal_id": 30927,
+    "terminal_name": "Parcimantoro"
+  },
+  {
+    "terminal_id": 30928,
+    "terminal_name": "Pacitan"
+  },
+  {
+    "terminal_id": 30930,
+    "terminal_name": "Jl.Lintas Giriwoyo"
+  },
+  {
+    "terminal_id": 30931,
+    "terminal_name": "Terminal Pracimantoro"
+  },
+  {
+    "terminal_id": 30932,
+    "terminal_name": "Jl. Lintas Donorajo"
+  },
+  {
+    "terminal_id": 30933,
+    "terminal_name": "Terminal Pacitan"
+  },
+  {
+    "terminal_id": 30936,
+    "terminal_name": "Cibitung, Cikarang Barat"
+  },
+  {
+    "terminal_id": 30937,
+    "terminal_name": "Cikarang, Cikarang Selatan "
+  },
+  {
+    "terminal_id": 30938,
+    "terminal_name": "Bekasi Timur"
+  },
+  {
+    "terminal_id": 30939,
+    "terminal_name": "Pangkalan, Cileungsi"
+  },
+  {
+    "terminal_id": 30940,
+    "terminal_name": "Gunung Putri"
+  },
+  {
+    "terminal_id": 30941,
+    "terminal_name": "Terminal Bubulak"
+  },
+  {
+    "terminal_id": 30942,
+    "terminal_name": "Kreo, Ciledug"
+  },
+  {
+    "terminal_id": 30943,
+    "terminal_name": "Terminal Ciledug"
+  },
+  {
+    "terminal_id": 30944,
+    "terminal_name": "Terminal Poris"
+  },
+  {
+    "terminal_id": 30945,
+    "terminal_name": "Grogol"
+  },
+  {
+    "terminal_id": 30946,
+    "terminal_name": "Tegal Alur, Kalterminal_ideres"
+  },
+  {
+    "terminal_id": 30947,
+    "terminal_name": "Jatiasih"
+  },
+  {
+    "terminal_id": 30948,
+    "terminal_name": "Lumajang"
+  },
+  {
+    "terminal_id": 30949,
+    "terminal_name": "Jalan Lintas Lumajang"
+  },
+  {
+    "terminal_id": 30950,
+    "terminal_name": "KARAWANG BARAT"
+  },
+  {
+    "terminal_id": 30951,
+    "terminal_name": "Interchange, Karawang Barat"
+  },
+  {
+    "terminal_id": 30952,
+    "terminal_name": "BALARAJA"
+  },
+  {
+    "terminal_id": 43240,
+    "terminal_name": "Medan Belawan"
+  },
+  {
+    "terminal_id": 30953,
+    "terminal_name": "Jl. Raya Serang"
+  },
+  {
+    "terminal_id": 30954,
+    "terminal_name": "GEMOLONG"
+  },
+  {
+    "terminal_id": 30955,
+    "terminal_name": "Jl. Gemolong - Sragen"
+  },
+  {
+    "terminal_id": 30956,
+    "terminal_name": "JAKARTA UTARA"
+  },
+  {
+    "terminal_id": 30957,
+    "terminal_name": "Tanjung Priok"
+  },
+  {
+    "terminal_id": 30959,
+    "terminal_name": "Cengkareng (Ringroad)"
+  },
+  {
+    "terminal_id": 30960,
+    "terminal_name": "GIRIBELAH"
+  },
+  {
+    "terminal_id": 30961,
+    "terminal_name": "Jl. Raya Giribelah"
+  },
+  {
+    "terminal_id": 30963,
+    "terminal_name": "Terminal Prambanan"
+  },
+  {
+    "terminal_id": 30969,
+    "terminal_name": "Bojonegoro."
+  },
+  {
+    "terminal_id": 30970,
+    "terminal_name": "Terminal Bojonegoro"
+  },
+  {
+    "terminal_id": 30971,
+    "terminal_name": "Kalitterminal_idu"
+  },
+  {
+    "terminal_id": 30972,
+    "terminal_name": "Tobo"
+  },
+  {
+    "terminal_id": 30973,
+    "terminal_name": "Wonosari"
+  },
+  {
+    "terminal_id": 30974,
+    "terminal_name": "Terminal Wonosari"
+  },
+  {
+    "terminal_id": 30975,
+    "terminal_name": "Tuban."
+  },
+  {
+    "terminal_id": 30976,
+    "terminal_name": "Jatirogo"
+  },
+  {
+    "terminal_id": 28938,
+    "terminal_name": "Terminal Rawamangun"
+  },
+  {
+    "terminal_id": 28947,
+    "terminal_name": "Karawang"
+  },
+  {
+    "terminal_id": 28948,
+    "terminal_name": "Perumahan Gerbang Harapan"
+  },
+  {
+    "terminal_id": 28949,
+    "terminal_name": "Cikarang"
+  },
+  {
+    "terminal_id": 28950,
+    "terminal_name": "Jl Industri no: 67"
+  },
+  {
+    "terminal_id": 28957,
+    "terminal_name": "Pelabuhan Merak"
+  },
+  {
+    "terminal_id": 28958,
+    "terminal_name": "Terminal Bus Adipura"
+  },
+  {
+    "terminal_id": 28959,
+    "terminal_name": "Babat."
+  },
+  {
+    "terminal_id": 28960,
+    "terminal_name": "Kota Lampung"
+  },
+  {
+    "terminal_id": 28961,
+    "terminal_name": "Grobogan."
+  },
+  {
+    "terminal_id": 28962,
+    "terminal_name": "Jln Padjajaran"
+  },
+  {
+    "terminal_id": 28963,
+    "terminal_name": "Jln RE Martadinata No 146"
+  },
+  {
+    "terminal_id": 28964,
+    "terminal_name": "Jln RE Martadinata No 4"
+  },
+  {
+    "terminal_id": 28965,
+    "terminal_name": "Jln Soekarno Hatta"
+  },
+  {
+    "terminal_id": 28966,
+    "terminal_name": "Bangil."
+  },
+  {
+    "terminal_id": 28967,
+    "terminal_name": "Terminal Bangkalan"
+  },
+  {
+    "terminal_id": 28968,
+    "terminal_name": "Simpang tiga Terminal Banjar"
+  },
+  {
+    "terminal_id": 28969,
+    "terminal_name": "Banjanegara"
+  },
+  {
+    "terminal_id": 28970,
+    "terminal_name": "Daan Mogot"
+  },
+  {
+    "terminal_id": 28971,
+    "terminal_name": "Pulo Gebang"
+  },
+  {
+    "terminal_id": 28972,
+    "terminal_name": "Terminal Lebak Bulus"
+  },
+  {
+    "terminal_id": 28976,
+    "terminal_name": "Pondok Pinang"
+  },
+  {
+    "terminal_id": 28977,
+    "terminal_name": "Terminal Pinang Ranti"
+  },
+  {
+    "terminal_id": 28978,
+    "terminal_name": "Jln Raya Bogor , Cililitan"
+  },
+  {
+    "terminal_id": 28979,
+    "terminal_name": "Terminal Rawa Mangun"
+  },
+  {
+    "terminal_id": 28980,
+    "terminal_name": "Komp Pertokoan Pulo Mas"
+  },
+  {
+    "terminal_id": 28981,
+    "terminal_name": "Terminal Pulogadung"
+  },
+  {
+    "terminal_id": 28982,
+    "terminal_name": "Terminal Pulogebang"
+  },
+  {
+    "terminal_id": 28983,
+    "terminal_name": "Jln Hang Tuah, Senayan"
+  },
+  {
+    "terminal_id": 31032,
+    "terminal_name": "Sumberlawang"
+  },
+  {
+    "terminal_id": 28984,
+    "terminal_name": "Krapyak"
+  },
+  {
+    "terminal_id": 28985,
+    "terminal_name": "Terminal Terboyo"
+  },
+  {
+    "terminal_id": 31033,
+    "terminal_name": "Terminal Sumberlawang"
+  },
+  {
+    "terminal_id": 31034,
+    "terminal_name": "Kalioso"
+  },
+  {
+    "terminal_id": 28986,
+    "terminal_name": "Jl MT Haryono"
+  },
+  {
+    "terminal_id": 28987,
+    "terminal_name": "Karang Ayu"
+  },
+  {
+    "terminal_id": 31035,
+    "terminal_name": "Terminal Kalioso"
+  },
+  {
+    "terminal_id": 28988,
+    "terminal_name": "jl dr cipto nomor 108"
+  },
+  {
+    "terminal_id": 31036,
+    "terminal_name": "Kreo"
+  },
+  {
+    "terminal_id": 28989,
+    "terminal_name": "jl siliwangino 470"
+  },
+  {
+    "terminal_id": 31037,
+    "terminal_name": "Bantar Gerbang"
+  },
+  {
+    "terminal_id": 28990,
+    "terminal_name": "Jl Raya Kaligawe Km 189"
+  },
+  {
+    "terminal_id": 31038,
+    "terminal_name": "Ciawi"
+  },
+  {
+    "terminal_id": 28991,
+    "terminal_name": "Jl Setya Budi no: 168"
+  },
+  {
+    "terminal_id": 31039,
+    "terminal_name": "Cibinong"
+  },
+  {
+    "terminal_id": 28992,
+    "terminal_name": "Terminal Tirtonadi"
+  },
+  {
+    "terminal_id": 31040,
+    "terminal_name": "Citereup"
+  },
+  {
+    "terminal_id": 28993,
+    "terminal_name": "Pool bus KramatDjati"
+  },
+  {
+    "terminal_id": 31041,
+    "terminal_name": "Jl. Raya Jakarta Bogor KM 35"
+  },
+  {
+    "terminal_id": 28994,
+    "terminal_name": "Jl Setia Budi No 17"
+  },
+  {
+    "terminal_id": 31042,
+    "terminal_name": "Klari"
+  },
+  {
+    "terminal_id": 28995,
+    "terminal_name": "Jln Veteran"
+  },
+  {
+    "terminal_id": 31043,
+    "terminal_name": "Cikopo"
+  },
+  {
+    "terminal_id": 28996,
+    "terminal_name": "SPBU Pabelan"
+  },
+  {
+    "terminal_id": 31044,
+    "terminal_name": "Parung"
+  },
+  {
+    "terminal_id": 28997,
+    "terminal_name": "Terminal Unggaran"
+  },
+  {
+    "terminal_id": 31045,
+    "terminal_name": "Jl, Raya Parung - Bogor"
+  },
+  {
+    "terminal_id": 28998,
+    "terminal_name": "Terminal Seloaji"
+  },
+  {
+    "terminal_id": 31046,
+    "terminal_name": "Margonda"
+  },
+  {
+    "terminal_id": 28999,
+    "terminal_name": "Pool Bus Kramat Djati Ngawi"
+  },
+  {
+    "terminal_id": 31047,
+    "terminal_name": "Parung."
+  },
+  {
+    "terminal_id": 29000,
+    "terminal_name": "Pool Bus Kramat Djati Maospati"
+  },
+  {
+    "terminal_id": 29001,
+    "terminal_name": "Terminal Magetan"
+  },
+  {
+    "terminal_id": 29002,
+    "terminal_name": "Terminal Purbaya"
+  },
+  {
+    "terminal_id": 29003,
+    "terminal_name": "Jl. Makam Paneleh No. 38"
+  },
+  {
+    "terminal_id": 31051,
+    "terminal_name": "Pomad"
+  },
+  {
+    "terminal_id": 29004,
+    "terminal_name": "Terminal Bungur Asih"
+  },
+  {
+    "terminal_id": 31052,
+    "terminal_name": "Pool Agramas Karawang"
+  },
+  {
+    "terminal_id": 29005,
+    "terminal_name": "Kantor Pattimura"
+  },
+  {
+    "terminal_id": 31053,
+    "terminal_name": "Bulak Kapal"
+  },
+  {
+    "terminal_id": 29006,
+    "terminal_name": "Jln Raya Pangkalan Jati"
+  },
+  {
+    "terminal_id": 29007,
+    "terminal_name": "Terminal Arjosari"
+  },
+  {
+    "terminal_id": 29008,
+    "terminal_name": "Terminal Situbondo"
+  },
+  {
+    "terminal_id": 29009,
+    "terminal_name": "Jln Dharmawangsa"
+  },
+  {
+    "terminal_id": 29010,
+    "terminal_name": "Ubung"
+  },
+  {
+    "terminal_id": 31058,
+    "terminal_name": "BINTARO"
+  },
+  {
+    "terminal_id": 29011,
+    "terminal_name": "Kantor Kediri"
+  },
+  {
+    "terminal_id": 31059,
+    "terminal_name": "CILANDAK"
+  },
+  {
+    "terminal_id": 29012,
+    "terminal_name": "Kantor Cokro"
+  },
+  {
+    "terminal_id": 31060,
+    "terminal_name": "Baturetno"
+  },
+  {
+    "terminal_id": 29013,
+    "terminal_name": "Terminal Ubung"
+  },
+  {
+    "terminal_id": 31061,
+    "terminal_name": "Terminal Ngadirojo"
+  },
+  {
+    "terminal_id": 29014,
+    "terminal_name": "Jln Raya Kuta"
+  },
+  {
+    "terminal_id": 31062,
+    "terminal_name": "Pintu tol bawen"
+  },
+  {
+    "terminal_id": 29015,
+    "terminal_name": "Lamongan Kota"
+  },
+  {
+    "terminal_id": 31063,
+    "terminal_name": "Bagilan"
+  },
+  {
+    "terminal_id": 29016,
+    "terminal_name": "Terminal Tingkir"
+  },
+  {
+    "terminal_id": 31064,
+    "terminal_name": "Parengan"
+  },
+  {
+    "terminal_id": 29017,
+    "terminal_name": "Jl. Jend. Sudirman No: 40"
+  },
+  {
+    "terminal_id": 31065,
+    "terminal_name": "Eromoko"
+  },
+  {
+    "terminal_id": 29018,
+    "terminal_name": "KM 09"
+  },
+  {
+    "terminal_id": 31066,
+    "terminal_name": "Bangilan"
+  },
+  {
+    "terminal_id": 29019,
+    "terminal_name": "Jl Jend. Sudirman Ruko Grogolan Blok A3"
+  },
+  {
+    "terminal_id": 31067,
+    "terminal_name": "Bakalan"
+  },
+  {
+    "terminal_id": 29020,
+    "terminal_name": "Jl. Diponogoro No: 107"
+  },
+  {
+    "terminal_id": 31068,
+    "terminal_name": "Masaran"
+  },
+  {
+    "terminal_id": 29021,
+    "terminal_name": "Jombang."
+  },
+  {
+    "terminal_id": 31069,
+    "terminal_name": "Punung"
+  },
+  {
+    "terminal_id": 29022,
+    "terminal_name": "Mojokerto"
+  },
+  {
+    "terminal_id": 31070,
+    "terminal_name": "Sulang"
+  },
+  {
+    "terminal_id": 29023,
+    "terminal_name": "Jl Letjen Supratman"
+  },
+  {
+    "terminal_id": 31071,
+    "terminal_name": "Jl. Pupungan"
+  },
+  {
+    "terminal_id": 29024,
+    "terminal_name": "Jl Yos Sudarso, TA"
+  },
+  {
+    "terminal_id": 31072,
+    "terminal_name": "Bandara Juanda T1"
+  },
+  {
+    "terminal_id": 29025,
+    "terminal_name": "Terminal Tulung Agung"
+  },
+  {
+    "terminal_id": 31073,
+    "terminal_name": "Bandara Juanda T2"
+  },
+  {
+    "terminal_id": 29026,
+    "terminal_name": "Jl. Kenari 113"
+  },
+  {
+    "terminal_id": 31074,
+    "terminal_name": "Jl. Yos Sudarso"
+  },
+  {
+    "terminal_id": 29027,
+    "terminal_name": "Terminal Patria"
+  },
+  {
+    "terminal_id": 29028,
+    "terminal_name": "Terminal Bus Patria Blitar"
+  },
+  {
+    "terminal_id": 29029,
+    "terminal_name": "Kantor Janti"
+  },
+  {
+    "terminal_id": 31077,
+    "terminal_name": "Praci Batu"
+  },
+  {
+    "terminal_id": 29030,
+    "terminal_name": "Kantor Ringroad"
+  },
+  {
+    "terminal_id": 29031,
+    "terminal_name": "Terminal Giwangan"
+  },
+  {
+    "terminal_id": 29032,
+    "terminal_name": "Terminal Jombor"
+  },
+  {
+    "terminal_id": 43368,
+    "terminal_name": "Kota Agung"
+  },
+  {
+    "terminal_id": 43369,
+    "terminal_name": "Kota Agung"
+  },
+  {
+    "terminal_id": 29033,
+    "terminal_name": "J.Kyai Mojo No.76A"
+  },
+  {
+    "terminal_id": 29034,
+    "terminal_name": "Terminal Gamping"
+  },
+  {
+    "terminal_id": 29035,
+    "terminal_name": "Jl Diponogoro No: 22 , Mojayan"
+  },
+  {
+    "terminal_id": 29036,
+    "terminal_name": "Terminal Delangu"
+  },
+  {
+    "terminal_id": 31084,
+    "terminal_name": "Kota Nganjuk"
+  },
+  {
+    "terminal_id": 29037,
+    "terminal_name": "Jln MT Haryono"
+  },
+  {
+    "terminal_id": 31085,
+    "terminal_name": "Bandara International Juanda"
+  },
+  {
+    "terminal_id": 29038,
+    "terminal_name": "PekanBaru terminal"
+  },
+  {
+    "terminal_id": 31086,
+    "terminal_name": "Kertosono"
+  },
+  {
+    "terminal_id": 31087,
+    "terminal_name": "Jombang"
+  },
+  {
+    "terminal_id": 29039,
+    "terminal_name": "Purwokerto Pool"
+  },
+  {
+    "terminal_id": 29040,
+    "terminal_name": "Terminal Bulupitu"
+  },
+  {
+    "terminal_id": 31088,
+    "terminal_name": "Kota Jombang"
+  },
+  {
+    "terminal_id": 29041,
+    "terminal_name": "Purbalingga Pool"
+  },
+  {
+    "terminal_id": 29042,
+    "terminal_name": "Jl. A. Yani No: 108"
+  },
+  {
+    "terminal_id": 31090,
+    "terminal_name": "Kota Mojokerto"
+  },
+  {
+    "terminal_id": 29043,
+    "terminal_name": "Terminal Bus Wonosobo"
+  },
+  {
+    "terminal_id": 31091,
+    "terminal_name": "Kota Pacitan"
+  },
+  {
+    "terminal_id": 29044,
+    "terminal_name": "Jl Brig. Jend. Katamso No: 17 / Toko Sari"
+  },
+  {
+    "terminal_id": 31092,
+    "terminal_name": "Jl Pumpungan Surabaya"
+  },
+  {
+    "terminal_id": 29045,
+    "terminal_name": "Jl. Letjend Suprapto No: 22"
+  },
+  {
+    "terminal_id": 29046,
+    "terminal_name": "Jl. A. Yani No: 35 C"
+  },
+  {
+    "terminal_id": 29047,
+    "terminal_name": "Jln Merdeka"
+  },
+  {
+    "terminal_id": 41335,
+    "terminal_name": "Nagrak"
+  },
+  {
+    "terminal_id": 29048,
+    "terminal_name": "Karang Getas, No: 7"
+  },
+  {
+    "terminal_id": 29049,
+    "terminal_name": "Jl P. Diponogoro No 268"
+  },
+  {
+    "terminal_id": 29050,
+    "terminal_name": "Jl Jend. Sudirman No: 324"
+  },
+  {
+    "terminal_id": 31098,
+    "terminal_name": "Ruko Ramayana Bungurasih"
+  },
+  {
+    "terminal_id": 29051,
+    "terminal_name": "Jl Jendral Sudirman No: 8"
+  },
+  {
+    "terminal_id": 31099,
+    "terminal_name": "Kota tabanan"
+  },
+  {
+    "terminal_id": 41339,
+    "terminal_name": "Cengkareng"
+  },
+  {
+    "terminal_id": 31100,
+    "terminal_name": "Nusa Dua"
+  },
+  {
+    "terminal_id": 29052,
+    "terminal_name": "Jl. Tamtama No: 75"
+  },
+  {
+    "terminal_id": 29053,
+    "terminal_name": "RM Luwes, Jl. Raya No: 10"
+  },
+  {
+    "terminal_id": 31101,
+    "terminal_name": "Kota Nusa Dua"
+  },
+  {
+    "terminal_id": 31102,
+    "terminal_name": "Jimbaran"
+  },
+  {
+    "terminal_id": 29054,
+    "terminal_name": "Amalia Cell, Jl raya Ngadirejo KM 1"
+  },
+  {
+    "terminal_id": 29055,
+    "terminal_name": "Jl. Pemuda No: 136"
+  },
+  {
+    "terminal_id": 31103,
+    "terminal_name": "Kota Jimbaran"
+  },
+  {
+    "terminal_id": 31104,
+    "terminal_name": "Negare"
+  },
+  {
+    "terminal_id": 29056,
+    "terminal_name": "Jl Pemuda No: 247"
+  },
+  {
+    "terminal_id": 29057,
+    "terminal_name": "Jl Diponegoro, depan halte puri"
+  },
+  {
+    "terminal_id": 31105,
+    "terminal_name": "Kota negare"
+  },
+  {
+    "terminal_id": 29058,
+    "terminal_name": "Terminal Pati"
+  },
+  {
+    "terminal_id": 31106,
+    "terminal_name": "Jalan Letjend Sutoyo"
+  },
+  {
+    "terminal_id": 29059,
+    "terminal_name": "Terminal Tayu"
+  },
+  {
+    "terminal_id": 31107,
+    "terminal_name": "Jalan Adi Sucipto"
+  },
+  {
+    "terminal_id": 29060,
+    "terminal_name": "Jl.Pati-Tayu km 18"
+  },
+  {
+    "terminal_id": 29061,
+    "terminal_name": "JL.PATI TAYU NO 10"
+  },
+  {
+    "terminal_id": 29062,
+    "terminal_name": "JL PATI TAYU KM 23"
+  },
+  {
+    "terminal_id": 29063,
+    "terminal_name": "JL. A. Yani No: 110 Tlp (0291) 423153"
+  },
+  {
+    "terminal_id": 29064,
+    "terminal_name": "Jl Raya Rembang - Blora km 12"
+  },
+  {
+    "terminal_id": 31112,
+    "terminal_name": "Jl. slamet riyadi"
+  },
+  {
+    "terminal_id": 29065,
+    "terminal_name": "Jl Kol Sunandar no 39 A"
+  },
+  {
+    "terminal_id": 31113,
+    "terminal_name": "Kota Wonosari"
+  },
+  {
+    "terminal_id": 29066,
+    "terminal_name": "Jl Pahlawan ruko no: 5"
+  },
+  {
+    "terminal_id": 31114,
+    "terminal_name": "Kota jakarta Timur"
+  },
+  {
+    "terminal_id": 29067,
+    "terminal_name": "Jl Pertokoan Masjterminal_id Jami Lasem"
+  },
+  {
+    "terminal_id": 31115,
+    "terminal_name": "Jl. Terusan Kiaracondong"
+  },
+  {
+    "terminal_id": 29068,
+    "terminal_name": "Jl Pati - Tayu km 10"
+  },
+  {
+    "terminal_id": 31116,
+    "terminal_name": "Jalan Achmad Yani"
+  },
+  {
+    "terminal_id": 41356,
+    "terminal_name": "Bekasi"
+  },
+  {
+    "terminal_id": 29069,
+    "terminal_name": "Jl Kartini no 60 Rembang"
+  },
+  {
+    "terminal_id": 31117,
+    "terminal_name": "Tlk. Betung Selatan"
+  },
+  {
+    "terminal_id": 29070,
+    "terminal_name": "Jl Pati - Tayu km 18"
+  },
+  {
+    "terminal_id": 31118,
+    "terminal_name": "Kota Bandar jaya"
+  },
+  {
+    "terminal_id": 31119,
+    "terminal_name": "Kota Pringsewu"
+  },
+  {
+    "terminal_id": 31120,
+    "terminal_name": "Metro"
+  },
+  {
+    "terminal_id": 43408,
+    "terminal_name": "Dawuan Karawang"
+  },
+  {
+    "terminal_id": 29072,
+    "terminal_name": "Jl Jenderal Sudirman Juana no: 16"
+  },
+  {
+    "terminal_id": 29073,
+    "terminal_name": "Jl Raya pati - Batangan / Sebelah Alfamart"
+  },
+  {
+    "terminal_id": 31121,
+    "terminal_name": "Kota Metro"
+  },
+  {
+    "terminal_id": 29074,
+    "terminal_name": "Terminal Pati loket no: 23"
+  },
+  {
+    "terminal_id": 31122,
+    "terminal_name": "Kota BatuRaja"
+  },
+  {
+    "terminal_id": 29075,
+    "terminal_name": "Terminal Pati loket no: 9"
+  },
+  {
+    "terminal_id": 31123,
+    "terminal_name": "Kota Muara Enim"
+  },
+  {
+    "terminal_id": 29076,
+    "terminal_name": "Jl Diponegoro no 2B"
+  },
+  {
+    "terminal_id": 31124,
+    "terminal_name": "Kota Lahat"
+  },
+  {
+    "terminal_id": 29077,
+    "terminal_name": "Loket no: 5"
+  },
+  {
+    "terminal_id": 31125,
+    "terminal_name": "Kota Lubuk Lingau"
+  },
+  {
+    "terminal_id": 29078,
+    "terminal_name": "Terminal Pecangaan"
+  },
+  {
+    "terminal_id": 31126,
+    "terminal_name": "Wilayah Kota Bumi"
+  },
+  {
+    "terminal_id": 29079,
+    "terminal_name": "Jl Rya Kudus - Jepara km 18"
+  },
+  {
+    "terminal_id": 31127,
+    "terminal_name": "Pracimantoro"
+  },
+  {
+    "terminal_id": 29080,
+    "terminal_name": "Depan Pasar Mayong"
+  },
+  {
+    "terminal_id": 31128,
+    "terminal_name": "Batu"
+  },
+  {
+    "terminal_id": 29081,
+    "terminal_name": "Terminal Welahan"
+  },
+  {
+    "terminal_id": 29082,
+    "terminal_name": "Jl Lingkar Jetak, Timur Pasar Jetak"
+  },
+  {
+    "terminal_id": 29083,
+    "terminal_name": "Jl. Getas Pejaten no:4 Kudus"
+  },
+  {
+    "terminal_id": 29084,
+    "terminal_name": "Loket no A7"
+  },
+  {
+    "terminal_id": 29085,
+    "terminal_name": "Jl Raya Kudus- Demak km 5"
+  },
+  {
+    "terminal_id": 29086,
+    "terminal_name": "Jl Sultan patan no: 6"
+  },
+  {
+    "terminal_id": 29088,
+    "terminal_name": "Jl Dr. Cipto no: 108 c"
+  },
+  {
+    "terminal_id": 29091,
+    "terminal_name": "jl lingkar jetak,timur pasar jetak"
+  },
+  {
+    "terminal_id": 31139,
+    "terminal_name": "Matesih"
+  },
+  {
+    "terminal_id": 29092,
+    "terminal_name": "pecinan demak"
+  },
+  {
+    "terminal_id": 29093,
+    "terminal_name": "Depan pasar gajah"
+  },
+  {
+    "terminal_id": 31142,
+    "terminal_name": "Trenggalek"
+  },
+  {
+    "terminal_id": 29094,
+    "terminal_name": "Jl Lettu Suwolo No. 44 B (depan stadion)"
+  },
+  {
+    "terminal_id": 29095,
+    "terminal_name": "Jln Leran"
+  },
+  {
+    "terminal_id": 31143,
+    "terminal_name": "Terminal Bus Trenggalek"
+  },
+  {
+    "terminal_id": 29096,
+    "terminal_name": "JL RSU No: 30"
+  },
+  {
+    "terminal_id": 31144,
+    "terminal_name": "Terminal tamanan kediri"
+  },
+  {
+    "terminal_id": 29097,
+    "terminal_name": "Terminal Cepu"
+  },
+  {
+    "terminal_id": 31145,
+    "terminal_name": "Teriminal Pare Kediri"
+  },
+  {
+    "terminal_id": 29098,
+    "terminal_name": "jl.pahlawan no 5"
+  },
+  {
+    "terminal_id": 31146,
+    "terminal_name": "Terminal lama kota Jombang"
+  },
+  {
+    "terminal_id": 29099,
+    "terminal_name": "Jl. Hasanudin No: 1"
+  },
+  {
+    "terminal_id": 31147,
+    "terminal_name": "Jalan Yos Sudarso, Bangunsari"
+  },
+  {
+    "terminal_id": 29100,
+    "terminal_name": "Jl Soekarno Hatta"
+  },
+  {
+    "terminal_id": 31148,
+    "terminal_name": "Kota Pracimantoro"
+  },
+  {
+    "terminal_id": 29101,
+    "terminal_name": "Terminal Rajabasa"
+  },
+  {
+    "terminal_id": 31149,
+    "terminal_name": "Kota Yogyakarta"
+  },
+  {
+    "terminal_id": 29102,
+    "terminal_name": "Desa Tanjung Kemuning"
+  },
+  {
+    "terminal_id": 31150,
+    "terminal_name": "Kota Sukoharjo"
+  },
+  {
+    "terminal_id": 29103,
+    "terminal_name": "Jl Jend Sudirman no 242"
+  },
+  {
+    "terminal_id": 31151,
+    "terminal_name": "Kota Solo Baru"
+  },
+  {
+    "terminal_id": 29104,
+    "terminal_name": "Ds. Kayu Arang Km. 27"
+  },
+  {
+    "terminal_id": 31152,
+    "terminal_name": "Kota Solo"
+  },
+  {
+    "terminal_id": 29105,
+    "terminal_name": "Desa Sinar Pagi"
+  },
+  {
+    "terminal_id": 31153,
+    "terminal_name": "Jalan Sterminal_idoasih Barat Purwosari"
+  },
+  {
+    "terminal_id": 29106,
+    "terminal_name": "Terminal Merak"
+  },
+  {
+    "terminal_id": 31154,
+    "terminal_name": "Kota Malang"
+  },
+  {
+    "terminal_id": 29107,
+    "terminal_name": "Depan Pemadam Kebakaran Cilegon"
+  },
+  {
+    "terminal_id": 31155,
+    "terminal_name": "Jalan margo basuki,Jetis Mulyo"
+  },
+  {
+    "terminal_id": 31156,
+    "terminal_name": "Kota kebumen"
+  },
+  {
+    "terminal_id": 29109,
+    "terminal_name": "Taman Kopasus"
+  },
+  {
+    "terminal_id": 31157,
+    "terminal_name": "JL nglipar/Ngawen km 5"
+  },
+  {
+    "terminal_id": 41397,
+    "terminal_name": "Keradenan"
+  },
+  {
+    "terminal_id": 29110,
+    "terminal_name": "Terminal Pakupatan"
+  },
+  {
+    "terminal_id": 31158,
+    "terminal_name": "Kota Purwokerto"
+  },
+  {
+    "terminal_id": 29111,
+    "terminal_name": "Dekat Pintu Masuk Tol Ciujung"
+  },
+  {
+    "terminal_id": 31159,
+    "terminal_name": "Kota Cirebon"
+  },
+  {
+    "terminal_id": 29112,
+    "terminal_name": "Lampung Kota"
+  },
+  {
+    "terminal_id": 31160,
+    "terminal_name": "Kota Klaten"
+  },
+  {
+    "terminal_id": 29113,
+    "terminal_name": "Terminal Bus Lampung"
+  },
+  {
+    "terminal_id": 31161,
+    "terminal_name": "Kota Boyolali"
+  },
+  {
+    "terminal_id": 29114,
+    "terminal_name": "Jl. MT Haryono No.1"
+  },
+  {
+    "terminal_id": 31162,
+    "terminal_name": "Kota Salatiga"
+  },
+  {
+    "terminal_id": 29115,
+    "terminal_name": "Jln Janti"
+  },
+  {
+    "terminal_id": 31163,
+    "terminal_name": "Kota Semarang"
+  },
+  {
+    "terminal_id": 29116,
+    "terminal_name": "Terminal Karya Jaya"
+  },
+  {
+    "terminal_id": 31164,
+    "terminal_name": "JL P.Mangkubumi"
+  },
+  {
+    "terminal_id": 29117,
+    "terminal_name": "Jl Sultan Mahmud Badarudin 2"
+  },
+  {
+    "terminal_id": 31165,
+    "terminal_name": "JL Mayjend Wiyono"
+  },
+  {
+    "terminal_id": 29118,
+    "terminal_name": "Simpang 3 cileunyi"
+  },
+  {
+    "terminal_id": 31166,
+    "terminal_name": "Kota kediri"
+  },
+  {
+    "terminal_id": 29119,
+    "terminal_name": "Simpang Tiga Ds Sindang Kasih"
+  },
+  {
+    "terminal_id": 31167,
+    "terminal_name": "Kota Kepanjen"
+  },
+  {
+    "terminal_id": 29120,
+    "terminal_name": "Terminal Bus Karang Pucung"
+  },
+  {
+    "terminal_id": 31168,
+    "terminal_name": "Kota Pare"
+  },
+  {
+    "terminal_id": 29121,
+    "terminal_name": "Terminal Bus Wangon"
+  },
+  {
+    "terminal_id": 31169,
+    "terminal_name": "Kota Pujon"
+  },
+  {
+    "terminal_id": 29122,
+    "terminal_name": "Terminal Prembun"
+  },
+  {
+    "terminal_id": 31170,
+    "terminal_name": "Kota Blitar"
+  },
+  {
+    "terminal_id": 31171,
+    "terminal_name": "JL Wates KM5, gamping"
+  },
+  {
+    "terminal_id": 29124,
+    "terminal_name": "Terminang Gombong"
+  },
+  {
+    "terminal_id": 31172,
+    "terminal_name": "Kota Purworejo"
+  },
+  {
+    "terminal_id": 29125,
+    "terminal_name": "Terminal Bus Purworejo,Candisari"
+  },
+  {
+    "terminal_id": 31173,
+    "terminal_name": "Kota Kutoarjo"
+  },
+  {
+    "terminal_id": 29126,
+    "terminal_name": "Terminal Purworejo"
+  },
+  {
+    "terminal_id": 31174,
+    "terminal_name": "Kota Gombong"
+  },
+  {
+    "terminal_id": 29127,
+    "terminal_name": "Terminal Bus Wates"
+  },
+  {
+    "terminal_id": 31175,
+    "terminal_name": "Kota Buntu"
+  },
+  {
+    "terminal_id": 29128,
+    "terminal_name": "Terminal Wates"
+  },
+  {
+    "terminal_id": 31176,
+    "terminal_name": "Kota Ajibarang"
+  },
+  {
+    "terminal_id": 29129,
+    "terminal_name": "Krisak"
+  },
+  {
+    "terminal_id": 31177,
+    "terminal_name": "Kota Bumiayu"
+  },
+  {
+    "terminal_id": 29130,
+    "terminal_name": "Terminal Bus Jambi"
+  },
+  {
+    "terminal_id": 31178,
+    "terminal_name": "Kota Prupuk"
+  },
+  {
+    "terminal_id": 29131,
+    "terminal_name": "Terminal Bus Purwantoro"
+  },
+  {
+    "terminal_id": 31179,
+    "terminal_name": "Kota Larangan"
+  },
+  {
+    "terminal_id": 29132,
+    "terminal_name": "Agen Trio Tour Travel Jl. Let. Jend Suprapto No.55 (sebelah masjterminal_id Bulu), Jepara"
+  },
+  {
+    "terminal_id": 31180,
+    "terminal_name": "Kota Losari"
+  },
+  {
+    "terminal_id": 31181,
+    "terminal_name": "Kota Delangu"
+  },
+  {
+    "terminal_id": 29134,
+    "terminal_name": "Terminal Kelet"
+  },
+  {
+    "terminal_id": 31182,
+    "terminal_name": "Kota purwodadi"
+  },
+  {
+    "terminal_id": 31183,
+    "terminal_name": "Wirosari"
+  },
+  {
+    "terminal_id": 31184,
+    "terminal_name": "Kota Blora"
+  },
+  {
+    "terminal_id": 29137,
+    "terminal_name": "jl raya kudus jepara km 18"
+  },
+  {
+    "terminal_id": 31185,
+    "terminal_name": "Kota Sulang"
+  },
+  {
+    "terminal_id": 31186,
+    "terminal_name": "Kota rembang"
+  },
+  {
+    "terminal_id": 29139,
+    "terminal_name": "Bubulak"
+  },
+  {
+    "terminal_id": 31187,
+    "terminal_name": "Masjterminal_id Jami Lasem"
+  },
+  {
+    "terminal_id": 29140,
+    "terminal_name": "Terminal Baranang Siang"
+  },
+  {
+    "terminal_id": 31188,
+    "terminal_name": "JL Tangkil"
+  },
+  {
+    "terminal_id": 31189,
+    "terminal_name": "Batu"
+  },
+  {
+    "terminal_id": 29142,
+    "terminal_name": "Jl Narangong"
+  },
+  {
+    "terminal_id": 31190,
+    "terminal_name": "Kota Batu"
+  },
+  {
+    "terminal_id": 29143,
+    "terminal_name": "Jl Akses Tol Cikarang"
+  },
+  {
+    "terminal_id": 31191,
+    "terminal_name": "kota ngawi"
+  },
+  {
+    "terminal_id": 29144,
+    "terminal_name": "Terminal Poris Plawad"
+  },
+  {
+    "terminal_id": 31192,
+    "terminal_name": "Kota Cilacap"
+  },
+  {
+    "terminal_id": 29145,
+    "terminal_name": "Terminal Phoris"
+  },
+  {
+    "terminal_id": 31193,
+    "terminal_name": "Majenang"
+  },
+  {
+    "terminal_id": 29146,
+    "terminal_name": "Terminal Kalterminal_ideres"
+  },
+  {
+    "terminal_id": 31194,
+    "terminal_name": "Kota Bandung"
+  },
+  {
+    "terminal_id": 29147,
+    "terminal_name": "jl Ring Road"
+  },
+  {
+    "terminal_id": 31195,
+    "terminal_name": "Kota Magelang"
+  },
+  {
+    "terminal_id": 29148,
+    "terminal_name": "Pool Nusantara Pasar Kamis"
+  },
+  {
+    "terminal_id": 31196,
+    "terminal_name": "Kota Secang"
+  },
+  {
+    "terminal_id": 29149,
+    "terminal_name": "Ruko Permata Jl Jend A Yani"
+  },
+  {
+    "terminal_id": 31197,
+    "terminal_name": "Kota Temanggung"
+  },
+  {
+    "terminal_id": 29150,
+    "terminal_name": "Ruko Grand Permata blok B no:3"
+  },
+  {
+    "terminal_id": 31198,
+    "terminal_name": "Kota Parakan"
+  },
+  {
+    "terminal_id": 29151,
+    "terminal_name": "Jl.Industri 67"
+  },
+  {
+    "terminal_id": 31199,
+    "terminal_name": "Kota Sukorejo"
+  },
+  {
+    "terminal_id": 29152,
+    "terminal_name": "Perum Gerbang Harapan"
+  },
+  {
+    "terminal_id": 31200,
+    "terminal_name": "Kota Weleri"
+  },
+  {
+    "terminal_id": 29153,
+    "terminal_name": "Terminal Bus Blora"
+  },
+  {
+    "terminal_id": 31201,
+    "terminal_name": "Kota Batang"
+  },
+  {
+    "terminal_id": 29154,
+    "terminal_name": "jl Kolonel Sunandar"
+  },
+  {
+    "terminal_id": 31202,
+    "terminal_name": "Kota pekalongan"
+  },
+  {
+    "terminal_id": 29155,
+    "terminal_name": "Blora Blok T"
+  },
+  {
+    "terminal_id": 31203,
+    "terminal_name": "Kota Salaman"
+  },
+  {
+    "terminal_id": 29156,
+    "terminal_name": "Pertokoan masjterminal_id Jami Lasem"
+  },
+  {
+    "terminal_id": 31204,
+    "terminal_name": "Kota sapuran"
+  },
+  {
+    "terminal_id": 29157,
+    "terminal_name": "Jln Jend A Yani , Pekayon"
+  },
+  {
+    "terminal_id": 31205,
+    "terminal_name": "Kota wonosobo"
+  },
+  {
+    "terminal_id": 29158,
+    "terminal_name": "Terminal Lasem"
+  },
+  {
+    "terminal_id": 31206,
+    "terminal_name": "Kota Banjarnegara"
+  },
+  {
+    "terminal_id": 31207,
+    "terminal_name": "Kota welingi"
+  },
+  {
+    "terminal_id": 29160,
+    "terminal_name": "Terminal AKAP Grogol"
+  },
+  {
+    "terminal_id": 31208,
+    "terminal_name": "Adisucipto International Airport"
+  },
+  {
+    "terminal_id": 29161,
+    "terminal_name": "Terminal Pasar Jumat"
+  },
+  {
+    "terminal_id": 31209,
+    "terminal_name": "Kota Jepara"
+  },
+  {
+    "terminal_id": 41450,
+    "terminal_name": "Buntu"
+  },
+  {
+    "terminal_id": 29162,
+    "terminal_name": "jl Raya ciputat, Pasar Jumat, depan SELAPA POLRI"
+  },
+  {
+    "terminal_id": 31210,
+    "terminal_name": "Kota Demak"
+  },
+  {
+    "terminal_id": 29163,
+    "terminal_name": "Ruko niaga bayu lestari, depan ramayana mall"
+  },
+  {
+    "terminal_id": 31211,
+    "terminal_name": "Kota Kudus"
+  },
+  {
+    "terminal_id": 29164,
+    "terminal_name": "Terminal Kampung Rambutan"
+  },
+  {
+    "terminal_id": 31212,
+    "terminal_name": "Adisumarmo International Airport"
+  },
+  {
+    "terminal_id": 29165,
+    "terminal_name": "Terminal Cileduk"
+  },
+  {
+    "terminal_id": 31213,
+    "terminal_name": "Kota Surabaya"
+  },
+  {
+    "terminal_id": 41454,
+    "terminal_name": "Kab Bondowoso"
+  },
+  {
+    "terminal_id": 29166,
+    "terminal_name": "Jl Daan Mogot Km 1/no:3p"
+  },
+  {
+    "terminal_id": 31214,
+    "terminal_name": "Kota Pati"
+  },
+  {
+    "terminal_id": 29167,
+    "terminal_name": "Jl Dewi sartika ruki ciputat, Niaga lestari blok A17,082123038802"
+  },
+  {
+    "terminal_id": 31215,
+    "terminal_name": "Kota Tuban"
+  },
+  {
+    "terminal_id": 29168,
+    "terminal_name": "Jl Tol sejajar timur pulo gebang"
+  },
+  {
+    "terminal_id": 31216,
+    "terminal_name": "Kota Lasem"
+  },
+  {
+    "terminal_id": 29169,
+    "terminal_name": "Jl Dewi sartika Ruko Ciputat, Niaga lestari blok A17"
+  },
+  {
+    "terminal_id": 31217,
+    "terminal_name": "Kota Lamongan"
+  },
+  {
+    "terminal_id": 29170,
+    "terminal_name": "Terminal Jepara"
+  },
+  {
+    "terminal_id": 31218,
+    "terminal_name": "Kota Babat"
+  },
+  {
+    "terminal_id": 31219,
+    "terminal_name": "Compreng"
+  },
+  {
+    "terminal_id": 29171,
+    "terminal_name": "Pool Jepara New Shantika,Jepara,Jawa Tengah"
+  },
+  {
+    "terminal_id": 29172,
+    "terminal_name": "Terminal Rembang"
+  },
+  {
+    "terminal_id": 31220,
+    "terminal_name": "Kota Compreng"
+  },
+  {
+    "terminal_id": 31221,
+    "terminal_name": "Jenu"
+  },
+  {
+    "terminal_id": 29173,
+    "terminal_name": "Depan pasar mayong."
+  },
+  {
+    "terminal_id": 41461,
+    "terminal_name": "Pondok Ungu"
+  },
+  {
+    "terminal_id": 29174,
+    "terminal_name": "Terminal Kalterminal_ideres."
+  },
+  {
+    "terminal_id": 31222,
+    "terminal_name": "Kota Jenu"
+  },
+  {
+    "terminal_id": 31223,
+    "terminal_name": "Pandanan"
+  },
+  {
+    "terminal_id": 29175,
+    "terminal_name": "Terminal Lebak Bulus."
+  },
+  {
+    "terminal_id": 29176,
+    "terminal_name": "Terminal Pecangaan."
+  },
+  {
+    "terminal_id": 31224,
+    "terminal_name": "Kota Pandanan"
+  },
+  {
+    "terminal_id": 31225,
+    "terminal_name": "mayung"
+  },
+  {
+    "terminal_id": 29177,
+    "terminal_name": "Terminal Bekasi"
+  },
+  {
+    "terminal_id": 29178,
+    "terminal_name": "Terminal Phoris."
+  },
+  {
+    "terminal_id": 31226,
+    "terminal_name": "Kota mayung"
+  },
+  {
+    "terminal_id": 31227,
+    "terminal_name": "Purwogondo"
+  },
+  {
+    "terminal_id": 29179,
+    "terminal_name": "TerminalTayu"
+  },
+  {
+    "terminal_id": 29180,
+    "terminal_name": "Terminal Tayu."
+  },
+  {
+    "terminal_id": 31228,
+    "terminal_name": "Kota Purwogondo"
+  },
+  {
+    "terminal_id": 31229,
+    "terminal_name": "Pecangaan"
+  },
+  {
+    "terminal_id": 29181,
+    "terminal_name": "Terminal welahan."
+  },
+  {
+    "terminal_id": 29182,
+    "terminal_name": "jl setya budi no 168"
+  },
+  {
+    "terminal_id": 31230,
+    "terminal_name": "Kota Pecangaan"
+  },
+  {
+    "terminal_id": 31231,
+    "terminal_name": "Kaliori"
+  },
+  {
+    "terminal_id": 29183,
+    "terminal_name": "Jl Siliwangi no 470b"
+  },
+  {
+    "terminal_id": 29184,
+    "terminal_name": "PelabuhanMerak"
+  },
+  {
+    "terminal_id": 31232,
+    "terminal_name": "Kota Kaliori"
+  },
+  {
+    "terminal_id": 31233,
+    "terminal_name": "Sarang"
+  },
+  {
+    "terminal_id": 29185,
+    "terminal_name": "Pelabuhan Merak."
+  },
+  {
+    "terminal_id": 29186,
+    "terminal_name": "PondokPinang"
+  },
+  {
+    "terminal_id": 31234,
+    "terminal_name": "Kota Sarang"
+  },
+  {
+    "terminal_id": 31235,
+    "terminal_name": "Kragan"
+  },
+  {
+    "terminal_id": 29187,
+    "terminal_name": "TerminalJombor"
+  },
+  {
+    "terminal_id": 29188,
+    "terminal_name": "Terminal Purbaya."
+  },
+  {
+    "terminal_id": 31236,
+    "terminal_name": "Kota Kragan"
+  },
+  {
+    "terminal_id": 31237,
+    "terminal_name": "Pandangan"
+  },
+  {
+    "terminal_id": 29189,
+    "terminal_name": "Terminal Kudus"
+  },
+  {
+    "terminal_id": 31238,
+    "terminal_name": "Kota Pandangan"
+  },
+  {
+    "terminal_id": 31239,
+    "terminal_name": "Jl. Timah No. 17, Jakarta Pusat"
+  },
+  {
+    "terminal_id": 31240,
+    "terminal_name": "Kota jakarta Pusat"
+  },
+  {
+    "terminal_id": 31241,
+    "terminal_name": "Jl. Mayor Salim, Batubara no. 45"
+  },
+  {
+    "terminal_id": 31242,
+    "terminal_name": "Kota Bandar Lampung"
+  },
+  {
+    "terminal_id": 41482,
+    "terminal_name": "Klampok"
+  },
+  {
+    "terminal_id": 31243,
+    "terminal_name": "Indramayu"
+  },
+  {
+    "terminal_id": 31244,
+    "terminal_name": "Kota Indramyu"
+  },
+  {
+    "terminal_id": 41484,
+    "terminal_name": "Mandiraja"
+  },
+  {
+    "terminal_id": 31245,
+    "terminal_name": "Kota Kuningan"
+  },
+  {
+    "terminal_id": 31246,
+    "terminal_name": "Tambak Boyo."
+  },
+  {
+    "terminal_id": 31247,
+    "terminal_name": "Kota Tambak Boyo"
+  },
+  {
+    "terminal_id": 31248,
+    "terminal_name": "Sluke."
+  },
+  {
+    "terminal_id": 31249,
+    "terminal_name": "Kota Sluke"
+  },
+  {
+    "terminal_id": 31250,
+    "terminal_name": "Pucuk."
+  },
+  {
+    "terminal_id": 31251,
+    "terminal_name": "Kota Pucuk"
+  },
+  {
+    "terminal_id": 31252,
+    "terminal_name": "Sayung"
+  },
+  {
+    "terminal_id": 31253,
+    "terminal_name": "Kota Sayung"
+  },
+  {
+    "terminal_id": 31254,
+    "terminal_name": "Bunder"
+  },
+  {
+    "terminal_id": 31255,
+    "terminal_name": "Kota Bunder"
+  },
+  {
+    "terminal_id": 31256,
+    "terminal_name": "Duduk Sampeyan"
+  },
+  {
+    "terminal_id": 31257,
+    "terminal_name": "Kota Duduk Sampeyan"
+  },
+  {
+    "terminal_id": 31258,
+    "terminal_name": "Deket"
+  },
+  {
+    "terminal_id": 31259,
+    "terminal_name": "Kota Deket"
+  },
+  {
+    "terminal_id": 29212,
+    "terminal_name": "Curup"
+  },
+  {
+    "terminal_id": 31260,
+    "terminal_name": "Kruwul"
+  },
+  {
+    "terminal_id": 29213,
+    "terminal_name": "Rejang Lebong"
+  },
+  {
+    "terminal_id": 31261,
+    "terminal_name": "Kota Kruwul"
+  },
+  {
+    "terminal_id": 29214,
+    "terminal_name": "Kepahiang"
+  },
+  {
+    "terminal_id": 31262,
+    "terminal_name": "Sumlaran"
+  },
+  {
+    "terminal_id": 29215,
+    "terminal_name": "Jln Santoso No 129"
+  },
+  {
+    "terminal_id": 31263,
+    "terminal_name": "Kota Sumlaran"
+  },
+  {
+    "terminal_id": 29216,
+    "terminal_name": "Lubuk Linggau"
+  },
+  {
+    "terminal_id": 31264,
+    "terminal_name": "Gembong"
+  },
+  {
+    "terminal_id": 29217,
+    "terminal_name": "Jln Yos Sudarso"
+  },
+  {
+    "terminal_id": 31265,
+    "terminal_name": "Kota Gembong"
+  },
+  {
+    "terminal_id": 29218,
+    "terminal_name": "Nganjuk"
+  },
+  {
+    "terminal_id": 31266,
+    "terminal_name": "Pakah"
+  },
+  {
+    "terminal_id": 29219,
+    "terminal_name": "Terminal Nganjuk"
+  },
+  {
+    "terminal_id": 31267,
+    "terminal_name": "Kota Pakah"
+  },
+  {
+    "terminal_id": 29220,
+    "terminal_name": "Banyumas"
+  },
+  {
+    "terminal_id": 31268,
+    "terminal_name": "Glondong"
+  },
+  {
+    "terminal_id": 29221,
+    "terminal_name": "Terminal Bus purwokerto"
+  },
+  {
+    "terminal_id": 31269,
+    "terminal_name": "Kota Glondong"
+  },
+  {
+    "terminal_id": 29222,
+    "terminal_name": "Bumi Ayu"
+  },
+  {
+    "terminal_id": 31270,
+    "terminal_name": "Bulu"
+  },
+  {
+    "terminal_id": 29223,
+    "terminal_name": "Terminal Bumiayu"
+  },
+  {
+    "terminal_id": 31271,
+    "terminal_name": "Kota Bulu"
+  },
+  {
+    "terminal_id": 29224,
+    "terminal_name": "Ajibarang"
+  },
+  {
+    "terminal_id": 31272,
+    "terminal_name": "Yuwono"
+  },
+  {
+    "terminal_id": 29225,
+    "terminal_name": "Terminal Ajibarang (jln Lingkar ajibarang)"
+  },
+  {
+    "terminal_id": 31273,
+    "terminal_name": "Kota Yuwono"
+  },
+  {
+    "terminal_id": 29226,
+    "terminal_name": "Ciamis"
+  },
+  {
+    "terminal_id": 31274,
+    "terminal_name": "Bareng"
+  },
+  {
+    "terminal_id": 29227,
+    "terminal_name": "Terminal Bus Ciamis"
+  },
+  {
+    "terminal_id": 31275,
+    "terminal_name": "Kota Bareng"
+  },
+  {
+    "terminal_id": 29228,
+    "terminal_name": "Malangbong"
+  },
+  {
+    "terminal_id": 31276,
+    "terminal_name": "Ngaluran"
+  },
+  {
+    "terminal_id": 29229,
+    "terminal_name": "Terminal malangbong"
+  },
+  {
+    "terminal_id": 31277,
+    "terminal_name": "Kota Ngaluran"
+  },
+  {
+    "terminal_id": 29230,
+    "terminal_name": "Ujung Batu"
+  },
+  {
+    "terminal_id": 31278,
+    "terminal_name": "Buyaran"
+  },
+  {
+    "terminal_id": 29231,
+    "terminal_name": "Terminal ujung batu"
+  },
+  {
+    "terminal_id": 31279,
+    "terminal_name": "Kota Buyaran"
+  },
+  {
+    "terminal_id": 29232,
+    "terminal_name": "Siak"
+  },
+  {
+    "terminal_id": 31280,
+    "terminal_name": "Terminal Kalianget"
+  },
+  {
+    "terminal_id": 31281,
+    "terminal_name": "Kalianget"
+  },
+  {
+    "terminal_id": 29233,
+    "terminal_name": "Terminal Siak"
+  },
+  {
+    "terminal_id": 41521,
+    "terminal_name": "Nanggewer"
+  },
+  {
+    "terminal_id": 29234,
+    "terminal_name": "Pasir Pangaraian"
+  },
+  {
+    "terminal_id": 29235,
+    "terminal_name": "Terminal Pasir Pengarian"
+  },
+  {
+    "terminal_id": 29236,
+    "terminal_name": "Kerinci"
+  },
+  {
+    "terminal_id": 29237,
+    "terminal_name": "Terminal kerinci(bunut)"
+  },
+  {
+    "terminal_id": 29238,
+    "terminal_name": "Sorek"
+  },
+  {
+    "terminal_id": 29239,
+    "terminal_name": "jln Lintas Timur sorek"
+  },
+  {
+    "terminal_id": 29240,
+    "terminal_name": "Blok M"
+  },
+  {
+    "terminal_id": 29241,
+    "terminal_name": "Ukui"
+  },
+  {
+    "terminal_id": 29242,
+    "terminal_name": "Jln Lintas timur Pasar Ukui"
+  },
+  {
+    "terminal_id": 29243,
+    "terminal_name": "Belilas"
+  },
+  {
+    "terminal_id": 29244,
+    "terminal_name": "Jln Lintas timur simpang empat"
+  },
+  {
+    "terminal_id": 29245,
+    "terminal_name": "Bayung Lincir"
+  },
+  {
+    "terminal_id": 29246,
+    "terminal_name": "Jl Raya Bayung lencir"
+  },
+  {
+    "terminal_id": 29247,
+    "terminal_name": "Solok"
+  },
+  {
+    "terminal_id": 29248,
+    "terminal_name": "Terminal Bareh"
+  },
+  {
+    "terminal_id": 29249,
+    "terminal_name": "Rupit"
+  },
+  {
+    "terminal_id": 29250,
+    "terminal_name": "Jl Raya Rupit"
+  },
+  {
+    "terminal_id": 29251,
+    "terminal_name": "Padang Panjang"
+  },
+  {
+    "terminal_id": 29252,
+    "terminal_name": "Terminal Padang Panjang"
+  },
+  {
+    "terminal_id": 29253,
+    "terminal_name": "Pariaman"
+  },
+  {
+    "terminal_id": 31301,
+    "terminal_name": "Kalianda"
+  },
+  {
+    "terminal_id": 29254,
+    "terminal_name": "Di belakang terminal Blok M"
+  },
+  {
+    "terminal_id": 31302,
+    "terminal_name": "Kota Kalianda"
+  },
+  {
+    "terminal_id": 31303,
+    "terminal_name": "Tanggamus"
+  },
+  {
+    "terminal_id": 29256,
+    "terminal_name": "Lippo Cikarang"
+  },
+  {
+    "terminal_id": 31304,
+    "terminal_name": "Kota Gisting"
+  },
+  {
+    "terminal_id": 29257,
+    "terminal_name": "Depan Citywalk Lippo Cikarang"
+  },
+  {
+    "terminal_id": 31305,
+    "terminal_name": "Kota talang padang"
+  },
+  {
+    "terminal_id": 31306,
+    "terminal_name": "Kota Singaraja"
+  },
+  {
+    "terminal_id": 31307,
+    "terminal_name": "Bangli"
+  },
+  {
+    "terminal_id": 31308,
+    "terminal_name": "Kota Bangli"
+  },
+  {
+    "terminal_id": 31309,
+    "terminal_name": "Gianyar"
+  },
+  {
+    "terminal_id": 31310,
+    "terminal_name": "Kota Gianyar"
+  },
+  {
+    "terminal_id": 41551,
+    "terminal_name": "Sukabumi"
+  },
+  {
+    "terminal_id": 31311,
+    "terminal_name": "Jl Letjend Sutoyo, Bungurasih"
+  },
+  {
+    "terminal_id": 41554,
+    "terminal_name": "Muntilan"
+  },
+  {
+    "terminal_id": 41557,
+    "terminal_name": "Cianjur"
+  },
+  {
+    "terminal_id": 41579,
+    "terminal_name": "Flyover Cileungsi"
+  },
+  {
+    "terminal_id": 41580,
+    "terminal_name": "Citra Indah"
+  },
+  {
+    "terminal_id": 31358,
+    "terminal_name": "Mateseh"
+  },
+  {
+    "terminal_id": 27269,
+    "terminal_name": "Aceh."
+  },
+  {
+    "terminal_id": 27270,
+    "terminal_name": "Aceh,Indonesia"
+  },
+  {
+    "terminal_id": 27271,
+    "terminal_name": "Aceh Selatan"
+  },
+  {
+    "terminal_id": 27272,
+    "terminal_name": "Aceh Tamiang"
+  },
+  {
+    "terminal_id": 27273,
+    "terminal_name": "Banda Aceh"
+  },
+  {
+    "terminal_id": 27274,
+    "terminal_name": "Aceh Tenggara"
+  },
+  {
+    "terminal_id": 27275,
+    "terminal_name": "Meulaboh"
+  },
+  {
+    "terminal_id": 27276,
+    "terminal_name": "Aceh Singkil"
+  },
+  {
+    "terminal_id": 27277,
+    "terminal_name": "Aceh Barat Daya"
+  },
+  {
+    "terminal_id": 27278,
+    "terminal_name": "Gayo Lues"
+  },
+  {
+    "terminal_id": 27279,
+    "terminal_name": "Kutacane"
+  },
+  {
+    "terminal_id": 27280,
+    "terminal_name": "Rimo Aceh Singkil"
+  },
+  {
+    "terminal_id": 27281,
+    "terminal_name": "Langsa"
+  },
+  {
+    "terminal_id": 41642,
+    "terminal_name": "cibarusah"
+  },
+  {
+    "terminal_id": 27311,
+    "terminal_name": "Aceh Selatan,Indonesia"
+  },
+  {
+    "terminal_id": 41669,
+    "terminal_name": "Kota Batak Pekanbaru"
+  },
+  {
+    "terminal_id": 31431,
+    "terminal_name": "Ngawen"
+  },
+  {
+    "terminal_id": 27355,
+    "terminal_name": "Jakarta"
+  },
+  {
+    "terminal_id": 27356,
+    "terminal_name": "Jakarta,Indonesia"
+  },
+  {
+    "terminal_id": 27357,
+    "terminal_name": "Semarang"
+  },
+  {
+    "terminal_id": 27358,
+    "terminal_name": "Central Java."
+  },
+  {
+    "terminal_id": 41699,
+    "terminal_name": "Tebing Tinggi"
+  },
+  {
+    "terminal_id": 41701,
+    "terminal_name": "Sarolangun"
+  },
+  {
+    "terminal_id": 41702,
+    "terminal_name": "Bangko"
+  },
+  {
+    "terminal_id": 41703,
+    "terminal_name": "Muara Bungo"
+  },
+  {
+    "terminal_id": 27372,
+    "terminal_name": "Sumatera Utara."
+  },
+  {
+    "terminal_id": 31474,
+    "terminal_name": "Agen Carikan"
+  },
+  {
+    "terminal_id": 31477,
+    "terminal_name": "Agen Cikarang"
+  },
+  {
+    "terminal_id": 41725,
+    "terminal_name": "Lintas  Sarolangun"
+  },
+  {
+    "terminal_id": 31498,
+    "terminal_name": "Labuan Bajo"
+  },
+  {
+    "terminal_id": 27410,
+    "terminal_name": "Bandung"
+  },
+  {
+    "terminal_id": 27411,
+    "terminal_name": "Bandung,West Java"
+  },
+  {
+    "terminal_id": 27416,
+    "terminal_name": "Pasteur"
+  },
+  {
+    "terminal_id": 27417,
+    "terminal_name": "Dipatiukur"
+  },
+  {
+    "terminal_id": 27418,
+    "terminal_name": "Ciputat"
+  },
+  {
+    "terminal_id": 41755,
+    "terminal_name": "Terminal Tirtomoyo"
+  },
+  {
+    "terminal_id": 27419,
+    "terminal_name": "Gaplek"
+  },
+  {
+    "terminal_id": 27420,
+    "terminal_name": "Pamulang"
+  },
+  {
+    "terminal_id": 27421,
+    "terminal_name": "Fatmawati"
+  },
+  {
+    "terminal_id": 27422,
+    "terminal_name": "Cinere"
+  },
+  {
+    "terminal_id": 29491,
+    "terminal_name": "Office Yogyakarta"
+  },
+  {
+    "terminal_id": 29492,
+    "terminal_name": "Office Semarang"
+  },
+  {
+    "terminal_id": 29493,
+    "terminal_name": "Agen Via Buana Tour & Travel"
+  },
+  {
+    "terminal_id": 29494,
+    "terminal_name": "Agen Trio Tour Travel"
+  },
+  {
+    "terminal_id": 29495,
+    "terminal_name": "Juana"
+  },
+  {
+    "terminal_id": 29496,
+    "terminal_name": "Jl Jenderal Sudirman Juana no: 16"
+  },
+  {
+    "terminal_id": 41785,
+    "terminal_name": "Pandaan"
+  },
+  {
+    "terminal_id": 29497,
+    "terminal_name": "Jl Raya pati-Batangan / Sebelah Alfamart"
+  },
+  {
+    "terminal_id": 29498,
+    "terminal_name": "Jl Pati-Tayu km 18"
+  },
+  {
+    "terminal_id": 29499,
+    "terminal_name": "JL PATI-TAYU KM 23"
+  },
+  {
+    "terminal_id": 29500,
+    "terminal_name": "JL.PATI-TAYU NO 10"
+  },
+  {
+    "terminal_id": 29521,
+    "terminal_name": "Lagoon"
+  },
+  {
+    "terminal_id": 29522,
+    "terminal_name": "Maxxbox Orange County"
+  },
+  {
+    "terminal_id": 29524,
+    "terminal_name": "Terminal Sukun/banyumanik"
+  },
+  {
+    "terminal_id": 29544,
+    "terminal_name": "Terminal Ir Soekarno"
+  },
+  {
+    "terminal_id": 29545,
+    "terminal_name": "Terminal Bus Pilangsari"
+  },
+  {
+    "terminal_id": 29546,
+    "terminal_name": "Terminal Osoliwangun"
+  },
+  {
+    "terminal_id": 29547,
+    "terminal_name": "Terminal Bangil"
+  },
+  {
+    "terminal_id": 29548,
+    "terminal_name": "Terminal Sritanjung"
+  },
+  {
+    "terminal_id": 29549,
+    "terminal_name": "Terminal Boyolali"
+  },
+  {
+    "terminal_id": 29550,
+    "terminal_name": "Terminal Bunder"
+  },
+  {
+    "terminal_id": 29551,
+    "terminal_name": "Near Universitas Islam Ogan Komering ilir area"
+  },
+  {
+    "terminal_id": 29552,
+    "terminal_name": "Terminal Purboyo"
+  },
+  {
+    "terminal_id": 29553,
+    "terminal_name": "Terminal Arjosari."
+  },
+  {
+    "terminal_id": 29554,
+    "terminal_name": "Terminal Pasuruan"
+  },
+  {
+    "terminal_id": 29555,
+    "terminal_name": "Terminal Bayuangga"
+  },
+  {
+    "terminal_id": 29556,
+    "terminal_name": "Terminal Pilangsari"
+  },
+  {
+    "terminal_id": 29557,
+    "terminal_name": "Terminal Tambak"
+  },
+  {
+    "terminal_id": 29558,
+    "terminal_name": "Terminal Rajabasa."
+  },
+  {
+    "terminal_id": 29559,
+    "terminal_name": "Terminal Bus Sisemut (Ungaran)"
+  },
+  {
+    "terminal_id": 29560,
+    "terminal_name": "Jln.RM.Sosrodiningrat, Bangsri"
+  },
+  {
+    "terminal_id": 29561,
+    "terminal_name": "Jln. Panglima Sudirman No.17"
+  },
+  {
+    "terminal_id": 29562,
+    "terminal_name": "Terminal Phoris"
+  },
+  {
+    "terminal_id": 29563,
+    "terminal_name": "Terminal Rawamangun."
+  },
+  {
+    "terminal_id": 29564,
+    "terminal_name": "Jl. RA. Kartini No.8"
+  },
+  {
+    "terminal_id": 29565,
+    "terminal_name": "Jl Raya Kaligawe Km 189."
+  },
+  {
+    "terminal_id": 29566,
+    "terminal_name": "Jln Raya Kamal"
+  },
+  {
+    "terminal_id": 29567,
+    "terminal_name": "Terminal Wirosari"
+  },
+  {
+    "terminal_id": 29568,
+    "terminal_name": "Terminal Lasem."
+  },
+  {
+    "terminal_id": 29569,
+    "terminal_name": "Terminal Prabumulih"
+  },
+  {
+    "terminal_id": 29570,
+    "terminal_name": "Terminal Sampang,Polagan"
+  },
+  {
+    "terminal_id": 29571,
+    "terminal_name": "Terminal Sumenep"
+  },
+  {
+    "terminal_id": 29572,
+    "terminal_name": "Jln Datuk Laksamana"
+  },
+  {
+    "terminal_id": 27525,
+    "terminal_name": "Semarang,Central Java"
+  },
+  {
+    "terminal_id": 29573,
+    "terminal_name": "Jl.Merdeka Raya"
+  },
+  {
+    "terminal_id": 27526,
+    "terminal_name": "Solo"
+  },
+  {
+    "terminal_id": 29574,
+    "terminal_name": "Jln Jend Sudirman"
+  },
+  {
+    "terminal_id": 27527,
+    "terminal_name": "Solo,Central Java"
+  },
+  {
+    "terminal_id": 29575,
+    "terminal_name": "Terminal Pangkalan lesung"
+  },
+  {
+    "terminal_id": 27528,
+    "terminal_name": "Ungaran"
+  },
+  {
+    "terminal_id": 29576,
+    "terminal_name": "Terminal Perawang"
+  },
+  {
+    "terminal_id": 27529,
+    "terminal_name": "Ungaran,Central Java"
+  },
+  {
+    "terminal_id": 29577,
+    "terminal_name": "RM Mitra Jaya"
+  },
+  {
+    "terminal_id": 27530,
+    "terminal_name": "Boyolali"
+  },
+  {
+    "terminal_id": 29578,
+    "terminal_name": "Jln Kampung Jawa"
+  },
+  {
+    "terminal_id": 27531,
+    "terminal_name": "Boyolali,Central Java"
+  },
+  {
+    "terminal_id": 29579,
+    "terminal_name": "Agen Viva Buana Tour & Travel, Jl. Diponegoro kompleks KODIM Salatiga"
+  },
+  {
+    "terminal_id": 27532,
+    "terminal_name": "Sragen"
+  },
+  {
+    "terminal_id": 29580,
+    "terminal_name": "Terminal Kebumen"
+  },
+  {
+    "terminal_id": 27533,
+    "terminal_name": "Sragen,Central Java"
+  },
+  {
+    "terminal_id": 29581,
+    "terminal_name": "Karang Getas, No: 7."
+  },
+  {
+    "terminal_id": 27534,
+    "terminal_name": "Ponorogo"
+  },
+  {
+    "terminal_id": 29582,
+    "terminal_name": "Head Office : Jl Diponogoro No: 73, Jogjakarta"
+  },
+  {
+    "terminal_id": 27535,
+    "terminal_name": "Ponorogo,East Java"
+  },
+  {
+    "terminal_id": 29583,
+    "terminal_name": "Terminal Kebonpolo"
+  },
+  {
+    "terminal_id": 27536,
+    "terminal_name": "Ngawi"
+  },
+  {
+    "terminal_id": 29584,
+    "terminal_name": "Terminal Bus Parakan"
+  },
+  {
+    "terminal_id": 27537,
+    "terminal_name": "Ngawi,East Java"
+  },
+  {
+    "terminal_id": 29585,
+    "terminal_name": "Terminal Bus Temanggung"
+  },
+  {
+    "terminal_id": 27538,
+    "terminal_name": "Maospati"
+  },
+  {
+    "terminal_id": 27539,
+    "terminal_name": "Maospati,East Java"
+  },
+  {
+    "terminal_id": 27540,
+    "terminal_name": "Madiun"
+  },
+  {
+    "terminal_id": 27541,
+    "terminal_name": "Madiun,East Java"
+  },
+  {
+    "terminal_id": 27542,
+    "terminal_name": "Surabaya"
+  },
+  {
+    "terminal_id": 27543,
+    "terminal_name": "Surabaya,East Java"
+  },
+  {
+    "terminal_id": 27545,
+    "terminal_name": "Tuban,East Java"
+  },
+  {
+    "terminal_id": 27546,
+    "terminal_name": "Malang"
+  },
+  {
+    "terminal_id": 27547,
+    "terminal_name": "Malang,East Java"
+  },
+  {
+    "terminal_id": 27548,
+    "terminal_name": "Bangil"
+  },
+  {
+    "terminal_id": 27549,
+    "terminal_name": "Bangil,East Java"
+  },
+  {
+    "terminal_id": 27550,
+    "terminal_name": "Pasuruan"
+  },
+  {
+    "terminal_id": 27551,
+    "terminal_name": "Pasuruan,East Java"
+  },
+  {
+    "terminal_id": 27552,
+    "terminal_name": "Probolinggo"
+  },
+  {
+    "terminal_id": 27553,
+    "terminal_name": "Probolinggo,East Java"
+  },
+  {
+    "terminal_id": 27554,
+    "terminal_name": "Situbondo"
+  },
+  {
+    "terminal_id": 27555,
+    "terminal_name": "Situbondo,East Java"
+  },
+  {
+    "terminal_id": 27556,
+    "terminal_name": "Banyu wangi"
+  },
+  {
+    "terminal_id": 27557,
+    "terminal_name": "Banyu wangi,East Java"
+  },
+  {
+    "terminal_id": 27558,
+    "terminal_name": "Denpasar"
+  },
+  {
+    "terminal_id": 27559,
+    "terminal_name": "Denpasar,Bali"
+  },
+  {
+    "terminal_id": 27560,
+    "terminal_name": "Lamongan"
+  },
+  {
+    "terminal_id": 27561,
+    "terminal_name": "Lamongan,East Java"
+  },
+  {
+    "terminal_id": 27562,
+    "terminal_name": "Gresik"
+  },
+  {
+    "terminal_id": 31658,
+    "terminal_name": "jl kayumanis"
+  },
+  {
+    "terminal_id": 27563,
+    "terminal_name": "Gresik,East Java"
+  },
+  {
+    "terminal_id": 29618,
+    "terminal_name": "Terminal Bus Mengwi"
+  },
+  {
+    "terminal_id": 27580,
+    "terminal_name": "Salatiga"
+  },
+  {
+    "terminal_id": 27581,
+    "terminal_name": "Salatiga,Central Java"
+  },
+  {
+    "terminal_id": 29634,
+    "terminal_name": "Pasar Kemis"
+  },
+  {
+    "terminal_id": 29635,
+    "terminal_name": "Badung"
+  },
+  {
+    "terminal_id": 29636,
+    "terminal_name": "Tabanan"
+  },
+  {
+    "terminal_id": 29637,
+    "terminal_name": "Jembrana"
+  },
+  {
+    "terminal_id": 29638,
+    "terminal_name": "Singaraja"
+  },
+  {
+    "terminal_id": 29639,
+    "terminal_name": "Bajulmati"
+  },
+  {
+    "terminal_id": 29640,
+    "terminal_name": "Pamekasan"
+  },
+  {
+    "terminal_id": 29641,
+    "terminal_name": "Juwana"
+  },
+  {
+    "terminal_id": 29642,
+    "terminal_name": "Bantul"
+  },
+  {
+    "terminal_id": 29643,
+    "terminal_name": "Cilacap"
+  },
+  {
+    "terminal_id": 29644,
+    "terminal_name": "Madiun"
+  },
+  {
+    "terminal_id": 29645,
+    "terminal_name": "Maospati"
+  },
+  {
+    "terminal_id": 29646,
+    "terminal_name": "Kulonprogo"
+  },
+  {
+    "terminal_id": 29647,
+    "terminal_name": "Kartasura"
+  },
+  {
+    "terminal_id": 29648,
+    "terminal_name": "Sukoharjo"
+  },
+  {
+    "terminal_id": 29649,
+    "terminal_name": "Blitar"
+  },
+  {
+    "terminal_id": 29650,
+    "terminal_name": "Nganjuk"
+  },
+  {
+    "terminal_id": 29651,
+    "terminal_name": "Bobotsari"
+  },
+  {
+    "terminal_id": 29652,
+    "terminal_name": "Ogan Ilir"
+  },
+  {
+    "terminal_id": 29653,
+    "terminal_name": "Ogan Komering Ilir"
+  },
+  {
+    "terminal_id": 29654,
+    "terminal_name": "Mesuji"
+  },
+  {
+    "terminal_id": 29655,
+    "terminal_name": "Tulang Bawang"
+  },
+  {
+    "terminal_id": 29656,
+    "terminal_name": "Muara Enim"
+  },
+  {
+    "terminal_id": 29657,
+    "terminal_name": "Baturaja"
+  },
+  {
+    "terminal_id": 29658,
+    "terminal_name": "Ogan Komering Ulu"
+  },
+  {
+    "terminal_id": 29659,
+    "terminal_name": "Way Kanan"
+  },
+  {
+    "terminal_id": 29660,
+    "terminal_name": "Bukit kemuning"
+  },
+  {
+    "terminal_id": 29661,
+    "terminal_name": "Kotabumi"
+  },
+  {
+    "terminal_id": 29662,
+    "terminal_name": "Jember"
+  },
+  {
+    "terminal_id": 29663,
+    "terminal_name": "Kelapa Gading"
+  },
+  {
+    "terminal_id": 29664,
+    "terminal_name": "Jatake"
+  },
+  {
+    "terminal_id": 29665,
+    "terminal_name": "Cikupa"
+  },
+  {
+    "terminal_id": 29666,
+    "terminal_name": "Bitung"
+  },
+  {
+    "terminal_id": 29667,
+    "terminal_name": "Kebon Nanas"
+  },
+  {
+    "terminal_id": 29668,
+    "terminal_name": "Cikokol"
+  },
+  {
+    "terminal_id": 29669,
+    "terminal_name": "Ampera"
+  },
+  {
+    "terminal_id": 29670,
+    "terminal_name": "Terminal KaliDeres."
+  },
+  {
+    "terminal_id": 29671,
+    "terminal_name": "Cengkareng"
+  },
+  {
+    "terminal_id": 29672,
+    "terminal_name": "Terminal Grogol"
+  },
+  {
+    "terminal_id": 29673,
+    "terminal_name": "Terminal Mengwi"
+  },
+  {
+    "terminal_id": 29674,
+    "terminal_name": "Kediri"
+  },
+  {
+    "terminal_id": 29675,
+    "terminal_name": "Terminal Persiapan"
+  },
+  {
+    "terminal_id": 29676,
+    "terminal_name": "Terminal Negare"
+  },
+  {
+    "terminal_id": 29677,
+    "terminal_name": "Dirgantara Negare"
+  },
+  {
+    "terminal_id": 29678,
+    "terminal_name": "Melaya Negare"
+  },
+  {
+    "terminal_id": 29679,
+    "terminal_name": "Rm Bakungan, Gilimanuk"
+  },
+  {
+    "terminal_id": 29680,
+    "terminal_name": "Ketapang"
+  },
+  {
+    "terminal_id": 29681,
+    "terminal_name": "Galean Wongsorejo"
+  },
+  {
+    "terminal_id": 29682,
+    "terminal_name": "Situbondo Rep Office"
+  },
+  {
+    "terminal_id": 29683,
+    "terminal_name": "Kraksan"
+  },
+  {
+    "terminal_id": 29684,
+    "terminal_name": "Terminal Gresik"
+  },
+  {
+    "terminal_id": 29685,
+    "terminal_name": "Pucuk"
+  },
+  {
+    "terminal_id": 29686,
+    "terminal_name": "TambakBoyo"
+  },
+  {
+    "terminal_id": 29687,
+    "terminal_name": "Terminal Bus Sumenep"
+  },
+  {
+    "terminal_id": 29688,
+    "terminal_name": "Terminal Pamekasan"
+  },
+  {
+    "terminal_id": 29689,
+    "terminal_name": "Barisan"
+  },
+  {
+    "terminal_id": 29690,
+    "terminal_name": "Pakis"
+  },
+  {
+    "terminal_id": 29691,
+    "terminal_name": "Singosari"
+  },
+  {
+    "terminal_id": 29692,
+    "terminal_name": "Lawang"
+  },
+  {
+    "terminal_id": 29693,
+    "terminal_name": "Purwosari"
+  },
+  {
+    "terminal_id": 29694,
+    "terminal_name": "Sukorejo"
+  },
+  {
+    "terminal_id": 41983,
+    "terminal_name": "Terminal NGAWEN GUNUNG WURUNG"
+  },
+  {
+    "terminal_id": 29695,
+    "terminal_name": "Pandaan"
+  },
+  {
+    "terminal_id": 27648,
+    "terminal_name": "Babat"
+  },
+  {
+    "terminal_id": 29696,
+    "terminal_name": "Gempol"
+  },
+  {
+    "terminal_id": 29697,
+    "terminal_name": "Porong"
+  },
+  {
+    "terminal_id": 29698,
+    "terminal_name": "Sluke"
+  },
+  {
+    "terminal_id": 27651,
+    "terminal_name": "Babat,East Java"
+  },
+  {
+    "terminal_id": 29699,
+    "terminal_name": "Rasem"
+  },
+  {
+    "terminal_id": 29700,
+    "terminal_name": "Taman Kartini"
+  },
+  {
+    "terminal_id": 29701,
+    "terminal_name": "Desa Sulang"
+  },
+  {
+    "terminal_id": 29702,
+    "terminal_name": "Ring road Pati"
+  },
+  {
+    "terminal_id": 29703,
+    "terminal_name": "Terminal Juwana"
+  },
+  {
+    "terminal_id": 29704,
+    "terminal_name": "Wetan"
+  },
+  {
+    "terminal_id": 29705,
+    "terminal_name": "Terminal Demak"
+  },
+  {
+    "terminal_id": 29706,
+    "terminal_name": "Sayung"
+  },
+  {
+    "terminal_id": 29707,
+    "terminal_name": "Genuk"
+  },
+  {
+    "terminal_id": 29708,
+    "terminal_name": "Terminal Mangkang"
+  },
+  {
+    "terminal_id": 29709,
+    "terminal_name": "Terminal Mendolo"
+  },
+  {
+    "terminal_id": 29710,
+    "terminal_name": "Terminal Banjarnegara"
+  },
+  {
+    "terminal_id": 29711,
+    "terminal_name": "Terminal Purbalingga"
+  },
+  {
+    "terminal_id": 29712,
+    "terminal_name": "Terminal Ajibarang"
+  },
+  {
+    "terminal_id": 29713,
+    "terminal_name": "Terminal Bus BumiAyu"
+  },
+  {
+    "terminal_id": 29714,
+    "terminal_name": "Sambong"
+  },
+  {
+    "terminal_id": 29715,
+    "terminal_name": "Pasar Cepu"
+  },
+  {
+    "terminal_id": 29716,
+    "terminal_name": "Terminal Rajekwesi"
+  },
+  {
+    "terminal_id": 29717,
+    "terminal_name": "Desa Kalitterminal_idu"
+  },
+  {
+    "terminal_id": 29718,
+    "terminal_name": "Terminal Blora"
+  },
+  {
+    "terminal_id": 29719,
+    "terminal_name": "Terminal Klaten"
+  },
+  {
+    "terminal_id": 29720,
+    "terminal_name": "Desa Bendogantungan"
+  },
+  {
+    "terminal_id": 29721,
+    "terminal_name": "Kraguman"
+  },
+  {
+    "terminal_id": 29722,
+    "terminal_name": "Prambanan"
+  },
+  {
+    "terminal_id": 29723,
+    "terminal_name": "Sedayu"
+  },
+  {
+    "terminal_id": 29724,
+    "terminal_name": "Terminal Wates"
+  },
+  {
+    "terminal_id": 29727,
+    "terminal_name": "Kutoarjo."
+  },
+  {
+    "terminal_id": 29728,
+    "terminal_name": "Kutowinangun"
+  },
+  {
+    "terminal_id": 29729,
+    "terminal_name": "Sumpiuh"
+  },
+  {
+    "terminal_id": 29730,
+    "terminal_name": "Palur"
+  },
+  {
+    "terminal_id": 29731,
+    "terminal_name": "Terminal Ponorogo"
+  },
+  {
+    "terminal_id": 29732,
+    "terminal_name": "Dolopo"
+  },
+  {
+    "terminal_id": 29734,
+    "terminal_name": "Terminal Maospati"
+  },
+  {
+    "terminal_id": 29735,
+    "terminal_name": "Terminal Purwantoro"
+  },
+  {
+    "terminal_id": 29736,
+    "terminal_name": "Terminal Krisak"
+  },
+  {
+    "terminal_id": 29737,
+    "terminal_name": "Jatisrono"
+  },
+  {
+    "terminal_id": 29738,
+    "terminal_name": "Terminal Sukoharjo"
+  },
+  {
+    "terminal_id": 29739,
+    "terminal_name": "Carikan"
+  },
+  {
+    "terminal_id": 29740,
+    "terminal_name": "Terminal Alang-alang Lebar"
+  },
+  {
+    "terminal_id": 29741,
+    "terminal_name": "Poligon"
+  },
+  {
+    "terminal_id": 29742,
+    "terminal_name": "Indralaya"
+  },
+  {
+    "terminal_id": 29743,
+    "terminal_name": "Terminal Mesuji"
+  },
+  {
+    "terminal_id": 29744,
+    "terminal_name": "Terminal Muara Enim"
+  },
+  {
+    "terminal_id": 29745,
+    "terminal_name": "Tanjung Enim"
+  },
+  {
+    "terminal_id": 29746,
+    "terminal_name": "Terminal Baturaja"
+  },
+  {
+    "terminal_id": 29747,
+    "terminal_name": "Batumarta"
+  },
+  {
+    "terminal_id": 29748,
+    "terminal_name": "Martapura"
+  },
+  {
+    "terminal_id": 29749,
+    "terminal_name": "Gombong."
+  },
+  {
+    "terminal_id": 29750,
+    "terminal_name": "Buntu."
+  },
+  {
+    "terminal_id": 29751,
+    "terminal_name": "Wangon."
+  },
+  {
+    "terminal_id": 29752,
+    "terminal_name": "Terminal Kartasura"
+  },
+  {
+    "terminal_id": 29753,
+    "terminal_name": "Terminal Patria."
+  },
+  {
+    "terminal_id": 29754,
+    "terminal_name": "Terminal Nganjuk."
+  },
+  {
+    "terminal_id": 29755,
+    "terminal_name": "Purbalingga."
+  },
+  {
+    "terminal_id": 29756,
+    "terminal_name": "Tanjung Raja"
+  },
+  {
+    "terminal_id": 29757,
+    "terminal_name": "Waytuba"
+  },
+  {
+    "terminal_id": 29758,
+    "terminal_name": "Terminal PuspaJaya"
+  },
+  {
+    "terminal_id": 29759,
+    "terminal_name": "Way Halim."
+  },
+  {
+    "terminal_id": 27740,
+    "terminal_name": "Menggala"
+  },
+  {
+    "terminal_id": 27741,
+    "terminal_name": "Menggala,South Sumatera"
+  },
+  {
+    "terminal_id": 27742,
+    "terminal_name": "Tulang Bawang"
+  },
+  {
+    "terminal_id": 27743,
+    "terminal_name": "Tulang Bawang,South Sumatera"
+  },
+  {
+    "terminal_id": 27744,
+    "terminal_name": "Mesuji"
+  },
+  {
+    "terminal_id": 27745,
+    "terminal_name": "Mesuji ,South Sumatera"
+  },
+  {
+    "terminal_id": 27747,
+    "terminal_name": "Tugu Mulyo"
+  },
+  {
+    "terminal_id": 27748,
+    "terminal_name": "Tugu Mulyo,South Sumatera"
+  },
+  {
+    "terminal_id": 27750,
+    "terminal_name": "Kayu Agung"
+  },
+  {
+    "terminal_id": 27751,
+    "terminal_name": "Kayu Agung,South Sumatera"
+  },
+  {
+    "terminal_id": 27753,
+    "terminal_name": "Palembang VIP,South Sumatera"
+  },
+  {
+    "terminal_id": 27757,
+    "terminal_name": "Pontianak"
+  },
+  {
+    "terminal_id": 27758,
+    "terminal_name": "Pontianak,West Kalimantan"
+  },
+  {
+    "terminal_id": 29829,
+    "terminal_name": "Kebayoran lama"
+  },
+  {
+    "terminal_id": 29830,
+    "terminal_name": "Sandubaya"
+  },
+  {
+    "terminal_id": 29831,
+    "terminal_name": "Mataram"
+  },
+  {
+    "terminal_id": 29832,
+    "terminal_name": "Sumbawa"
+  },
+  {
+    "terminal_id": 29833,
+    "terminal_name": "Sumber Payung"
+  },
+  {
+    "terminal_id": 29834,
+    "terminal_name": "Bima"
+  },
+  {
+    "terminal_id": 29835,
+    "terminal_name": "Dara Bima"
+  },
+  {
+    "terminal_id": 29836,
+    "terminal_name": "Serma Karma"
+  },
+  {
+    "terminal_id": 29873,
+    "terminal_name": "Kebayoran lama"
+  },
+  {
+    "terminal_id": 29879,
+    "terminal_name": "Terminal Cilacap"
+  },
+  {
+    "terminal_id": 29895,
+    "terminal_name": "Terminal Bawen"
+  },
+  {
+    "terminal_id": 29896,
+    "terminal_name": "Pringsewu"
+  },
+  {
+    "terminal_id": 29897,
+    "terminal_name": "Pasar Terminal Pringsewu"
+  },
+  {
+    "terminal_id": 29936,
+    "terminal_name": "Cimahi"
+  },
+  {
+    "terminal_id": 29937,
+    "terminal_name": "Terminal Bus Cimahi Mall"
+  },
+  {
+    "terminal_id": 29938,
+    "terminal_name": "Jatinangor"
+  },
+  {
+    "terminal_id": 42226,
+    "terminal_name": "Dompu regency"
+  },
+  {
+    "terminal_id": 29939,
+    "terminal_name": "Jl.Raya Bandung Sumedang"
+  },
+  {
+    "terminal_id": 29940,
+    "terminal_name": "Sumedang"
+  },
+  {
+    "terminal_id": 29941,
+    "terminal_name": "Terminal Bus Ciakar"
+  },
+  {
+    "terminal_id": 29942,
+    "terminal_name": "Majalengka"
+  },
+  {
+    "terminal_id": 29943,
+    "terminal_name": "Jatiwangi"
+  },
+  {
+    "terminal_id": 29944,
+    "terminal_name": "Kadipaten"
+  },
+  {
+    "terminal_id": 29945,
+    "terminal_name": "Palimanan"
+  },
+  {
+    "terminal_id": 42238,
+    "terminal_name": "Karangasem"
+  },
+  {
+    "terminal_id": 27918,
+    "terminal_name": "Pekalongan"
+  },
+  {
+    "terminal_id": 27919,
+    "terminal_name": "Pekalongan,Central Java"
+  },
+  {
+    "terminal_id": 27920,
+    "terminal_name": "Tegal\t"
+  },
+  {
+    "terminal_id": 27921,
+    "terminal_name": "Tegal,Central Java"
+  },
+  {
+    "terminal_id": 27922,
+    "terminal_name": "Merak"
+  },
+  {
+    "terminal_id": 27923,
+    "terminal_name": "Merak,West Java"
+  },
+  {
+    "terminal_id": 27924,
+    "terminal_name": "Patrol"
+  },
+  {
+    "terminal_id": 27925,
+    "terminal_name": "Patrol,West Java"
+  },
+  {
+    "terminal_id": 27926,
+    "terminal_name": "Cirebon,West Java"
+  },
+  {
+    "terminal_id": 27927,
+    "terminal_name": "Cirebon,West Java."
+  },
+  {
+    "terminal_id": 27928,
+    "terminal_name": "Kediri"
+  },
+  {
+    "terminal_id": 27929,
+    "terminal_name": "Kediri,East Java"
+  },
+  {
+    "terminal_id": 27930,
+    "terminal_name": "Tulung Agung"
+  },
+  {
+    "terminal_id": 27931,
+    "terminal_name": "Tulung Agung,East Java"
+  },
+  {
+    "terminal_id": 27932,
+    "terminal_name": "Blitar"
+  },
+  {
+    "terminal_id": 27933,
+    "terminal_name": "Blitar,East Java"
+  },
+  {
+    "terminal_id": 27935,
+    "terminal_name": "Yogjakarta,Central Java"
+  },
+  {
+    "terminal_id": 27936,
+    "terminal_name": "Klaten"
+  },
+  {
+    "terminal_id": 27937,
+    "terminal_name": "Klaten,Central Java"
+  },
+  {
+    "terminal_id": 27938,
+    "terminal_name": "Lintas Timur"
+  },
+  {
+    "terminal_id": 27939,
+    "terminal_name": "Lintas Timur,Sumatera Seletan"
+  },
+  {
+    "terminal_id": 27940,
+    "terminal_name": "Lintas Tengah"
+  },
+  {
+    "terminal_id": 27941,
+    "terminal_name": "Lintas Tengah,Sumatera Seletan"
+  },
+  {
+    "terminal_id": 27942,
+    "terminal_name": "Bengkulu"
+  },
+  {
+    "terminal_id": 27943,
+    "terminal_name": "Bengkulu City,Bengkulu"
+  },
+  {
+    "terminal_id": 27944,
+    "terminal_name": "Pekanbaru"
+  },
+  {
+    "terminal_id": 27945,
+    "terminal_name": "Pekanbaru City,Pekanbaru"
+  },
+  {
+    "terminal_id": 27946,
+    "terminal_name": "Purwokerto"
+  },
+  {
+    "terminal_id": 27947,
+    "terminal_name": "Purwokerto,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27948,
+    "terminal_name": "Purbalingga"
+  },
+  {
+    "terminal_id": 27949,
+    "terminal_name": "Purbalingga,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27950,
+    "terminal_name": "Banjarnegara"
+  },
+  {
+    "terminal_id": 27951,
+    "terminal_name": "Banjarnegara,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27952,
+    "terminal_name": "Wonosobo"
+  },
+  {
+    "terminal_id": 27953,
+    "terminal_name": "Wonosobo,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27954,
+    "terminal_name": "Parakan"
+  },
+  {
+    "terminal_id": 27955,
+    "terminal_name": "Parakan,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27956,
+    "terminal_name": "Temanggung"
+  },
+  {
+    "terminal_id": 27957,
+    "terminal_name": "Temanggung,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27958,
+    "terminal_name": "Magelang "
+  },
+  {
+    "terminal_id": 27959,
+    "terminal_name": "Magelang,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27961,
+    "terminal_name": "Bukittinggi"
+  },
+  {
+    "terminal_id": 27962,
+    "terminal_name": "Padang"
+  },
+  {
+    "terminal_id": 27963,
+    "terminal_name": "Krui"
+  },
+  {
+    "terminal_id": 27964,
+    "terminal_name": "Padang,Sumatera Barat"
+  },
+  {
+    "terminal_id": 27965,
+    "terminal_name": "Bukittinggi,Sumatera Barat"
+  },
+  {
+    "terminal_id": 27966,
+    "terminal_name": "Krui,Lampung"
+  },
+  {
+    "terminal_id": 27967,
+    "terminal_name": "Cirebon"
+  },
+  {
+    "terminal_id": 27968,
+    "terminal_name": "Cirebon,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27969,
+    "terminal_name": "Losari"
+  },
+  {
+    "terminal_id": 27970,
+    "terminal_name": "Losari,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27971,
+    "terminal_name": "Tanjung"
+  },
+  {
+    "terminal_id": 27972,
+    "terminal_name": "Tanjung,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27973,
+    "terminal_name": "Brebes"
+  },
+  {
+    "terminal_id": 27974,
+    "terminal_name": "Brebes,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27975,
+    "terminal_name": "Dukuhturi"
+  },
+  {
+    "terminal_id": 27976,
+    "terminal_name": "Dukuhturi,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27977,
+    "terminal_name": "Pemalang"
+  },
+  {
+    "terminal_id": 27978,
+    "terminal_name": "Pemalang,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27979,
+    "terminal_name": "Comal"
+  },
+  {
+    "terminal_id": 27980,
+    "terminal_name": "Comal,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27981,
+    "terminal_name": "Batang"
+  },
+  {
+    "terminal_id": 27982,
+    "terminal_name": "Batang,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27983,
+    "terminal_name": "Gringsing"
+  },
+  {
+    "terminal_id": 27984,
+    "terminal_name": "Gringsing,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27985,
+    "terminal_name": "Weleri"
+  },
+  {
+    "terminal_id": 27986,
+    "terminal_name": "Weleri,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27987,
+    "terminal_name": "Sukorejo"
+  },
+  {
+    "terminal_id": 27988,
+    "terminal_name": "Sukorejo,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27989,
+    "terminal_name": "Candiroto"
+  },
+  {
+    "terminal_id": 27990,
+    "terminal_name": "Candiroto,Jawa Tengah"
+  },
+  {
+    "terminal_id": 42326,
+    "terminal_name": "Jalan Yos Sudarso"
+  },
+  {
+    "terminal_id": 27991,
+    "terminal_name": "Ngadirejo"
+  },
+  {
+    "terminal_id": 42327,
+    "terminal_name": "Tabanan"
+  },
+  {
+    "terminal_id": 27992,
+    "terminal_name": "Ngadirejo,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27993,
+    "terminal_name": "Muntilan"
+  },
+  {
+    "terminal_id": 27994,
+    "terminal_name": "Muntilan,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27995,
+    "terminal_name": "Pati"
+  },
+  {
+    "terminal_id": 27996,
+    "terminal_name": "Pati,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27997,
+    "terminal_name": "Kudus"
+  },
+  {
+    "terminal_id": 27998,
+    "terminal_name": "Kudus,Jawa Tengah"
+  },
+  {
+    "terminal_id": 27999,
+    "terminal_name": "Demak"
+  },
+  {
+    "terminal_id": 28000,
+    "terminal_name": "Demak,Jawa Tengah"
+  },
+  {
+    "terminal_id": 28001,
+    "terminal_name": "Purwodadi"
+  },
+  {
+    "terminal_id": 28002,
+    "terminal_name": "Purwodadi,Jawa Tengah"
+  },
+  {
+    "terminal_id": 28003,
+    "terminal_name": "Bojonegoro"
+  },
+  {
+    "terminal_id": 28004,
+    "terminal_name": "Bojonegoro,Jawa Tengah"
+  },
+  {
+    "terminal_id": 28005,
+    "terminal_name": "Cepu"
+  },
+  {
+    "terminal_id": 28006,
+    "terminal_name": "Cepu,Jawa Tengah"
+  },
+  {
+    "terminal_id": 28007,
+    "terminal_name": "Ngawi"
+  },
+  {
+    "terminal_id": 28008,
+    "terminal_name": "Ngawi,Jawa Tengah"
+  },
+  {
+    "terminal_id": 28009,
+    "terminal_name": "Way Halim"
+  },
+  {
+    "terminal_id": 28010,
+    "terminal_name": "Way Halim,Lampung"
+  },
+  {
+    "terminal_id": 28011,
+    "terminal_name": "Raja Basa"
+  },
+  {
+    "terminal_id": 28012,
+    "terminal_name": "Raja Basa,Lampung"
+  },
+  {
+    "terminal_id": 28013,
+    "terminal_name": "Tj. Kemuning"
+  },
+  {
+    "terminal_id": 30062,
+    "terminal_name": "Jakarta pusat"
+  },
+  {
+    "terminal_id": 28014,
+    "terminal_name": "Tj. Kemuning,Bengkulu"
+  },
+  {
+    "terminal_id": 28015,
+    "terminal_name": "Manna"
+  },
+  {
+    "terminal_id": 30063,
+    "terminal_name": "Blora"
+  },
+  {
+    "terminal_id": 28016,
+    "terminal_name": "Manna,Bengkulu"
+  },
+  {
+    "terminal_id": 28017,
+    "terminal_name": "Seluma"
+  },
+  {
+    "terminal_id": 28018,
+    "terminal_name": "Seluma,Bengkulu"
+  },
+  {
+    "terminal_id": 28019,
+    "terminal_name": "Sukaraja"
+  },
+  {
+    "terminal_id": 28020,
+    "terminal_name": "Sukaraja,Bengkulu"
+  },
+  {
+    "terminal_id": 28021,
+    "terminal_name": "Bintuhan"
+  },
+  {
+    "terminal_id": 28022,
+    "terminal_name": "Bintuhan,Bengkulu"
+  },
+  {
+    "terminal_id": 28023,
+    "terminal_name": "Merak"
+  },
+  {
+    "terminal_id": 28024,
+    "terminal_name": "Merak,Banten"
+  },
+  {
+    "terminal_id": 28025,
+    "terminal_name": "Lampung"
+  },
+  {
+    "terminal_id": 28026,
+    "terminal_name": "Lampung City,Lampung"
+  },
+  {
+    "terminal_id": 28027,
+    "terminal_name": "Yogyakarta"
+  },
+  {
+    "terminal_id": 28028,
+    "terminal_name": "Yogyakarta."
+  },
+  {
+    "terminal_id": 42379,
+    "terminal_name": "Sigli"
+  },
+  {
+    "terminal_id": 28048,
+    "terminal_name": "Pangkalan Lesung"
+  },
+  {
+    "terminal_id": 28049,
+    "terminal_name": "Pangkalan Lesung,Riau"
+  },
+  {
+    "terminal_id": 28050,
+    "terminal_name": "Palembang"
+  },
+  {
+    "terminal_id": 28051,
+    "terminal_name": "Palembang,Sumatera Selatan"
+  },
+  {
+    "terminal_id": 28052,
+    "terminal_name": "Bengkalis"
+  },
+  {
+    "terminal_id": 28053,
+    "terminal_name": "Bengkalis,Riau"
+  },
+  {
+    "terminal_id": 28054,
+    "terminal_name": "Kota Duri"
+  },
+  {
+    "terminal_id": 28055,
+    "terminal_name": "Kota Duri,Riau"
+  },
+  {
+    "terminal_id": 28056,
+    "terminal_name": "Perawang "
+  },
+  {
+    "terminal_id": 28057,
+    "terminal_name": "Perawang,Riau"
+  },
+  {
+    "terminal_id": 28058,
+    "terminal_name": "Siak"
+  },
+  {
+    "terminal_id": 28059,
+    "terminal_name": "Siak,Riau"
+  },
+  {
+    "terminal_id": 28060,
+    "terminal_name": "Purwakarta"
+  },
+  {
+    "terminal_id": 28061,
+    "terminal_name": "Purwakarta,Jawa Barat"
+  },
+  {
+    "terminal_id": 28062,
+    "terminal_name": "cileunyi"
+  },
+  {
+    "terminal_id": 28063,
+    "terminal_name": "cileunyi,Jawa Barat"
+  },
+  {
+    "terminal_id": 28064,
+    "terminal_name": "Tasikmalaya"
+  },
+  {
+    "terminal_id": 28065,
+    "terminal_name": "Tasikmalaya,Jawa Barat"
+  },
+  {
+    "terminal_id": 28066,
+    "terminal_name": "Banjar"
+  },
+  {
+    "terminal_id": 28067,
+    "terminal_name": "Banjar,Jawa Barat"
+  },
+  {
+    "terminal_id": 28068,
+    "terminal_name": "Karang Pucung"
+  },
+  {
+    "terminal_id": 28069,
+    "terminal_name": "Karang Pucung,Jawa Tengah"
+  },
+  {
+    "terminal_id": 28070,
+    "terminal_name": "Wangon"
+  },
+  {
+    "terminal_id": 28071,
+    "terminal_name": "Wangon,Jawa Tengah"
+  },
+  {
+    "terminal_id": 28072,
+    "terminal_name": "Prembun"
+  },
+  {
+    "terminal_id": 28073,
+    "terminal_name": "Prembun,Jawa Tengah"
+  },
+  {
+    "terminal_id": 28078,
+    "terminal_name": "Gombong"
+  },
+  {
+    "terminal_id": 28079,
+    "terminal_name": "Gombong,Jawa Tengah"
+  },
+  {
+    "terminal_id": 28080,
+    "terminal_name": "Purworejo"
+  },
+  {
+    "terminal_id": 28081,
+    "terminal_name": "Purworejo,Jawa Tengah"
+  },
+  {
+    "terminal_id": 28082,
+    "terminal_name": "Wates"
+  },
+  {
+    "terminal_id": 42419,
+    "terminal_name": "Bireuen"
+  },
+  {
+    "terminal_id": 28083,
+    "terminal_name": "Wates,Jawa Tengah"
+  },
+  {
+    "terminal_id": 28084,
+    "terminal_name": "Wonogiri"
+  },
+  {
+    "terminal_id": 42421,
+    "terminal_name": "Jalan Jombor Lor"
+  },
+  {
+    "terminal_id": 28085,
+    "terminal_name": "Wonogiri,Jawa Tengah"
+  },
+  {
+    "terminal_id": 30133,
+    "terminal_name": "Bandara Soekarno Hatta"
+  },
+  {
+    "terminal_id": 28086,
+    "terminal_name": "Wonogiri."
+  },
+  {
+    "terminal_id": 28087,
+    "terminal_name": "Wonogiri,Jawa Timur"
+  },
+  {
+    "terminal_id": 28089,
+    "terminal_name": "Jambi"
+  },
+  {
+    "terminal_id": 28090,
+    "terminal_name": "Jambi City,Jambi"
+  },
+  {
+    "terminal_id": 28091,
+    "terminal_name": "Purwantoro"
+  },
+  {
+    "terminal_id": 28092,
+    "terminal_name": "Purwantoro,Jawa Tengah"
+  },
+  {
+    "terminal_id": 28093,
+    "terminal_name": "Tulung Agung"
+  },
+  {
+    "terminal_id": 28094,
+    "terminal_name": "Tulung Agung,Jawa Timur"
+  },
+  {
+    "terminal_id": 28107,
+    "terminal_name": "Jepara"
+  },
+  {
+    "terminal_id": 28108,
+    "terminal_name": "Jepara,Jawa Tengah"
+  },
+  {
+    "terminal_id": 42478,
+    "terminal_name": "National Monument"
+  },
+  {
+    "terminal_id": 30245,
+    "terminal_name": "Jl. slamet Riyadi no 8 Kb. Manggis, Matraman"
+  },
+  {
+    "terminal_id": 30247,
+    "terminal_name": "Terminal Tterminal_idar Eka"
+  },
+  {
+    "terminal_id": 30248,
+    "terminal_name": "Garasi Sterminal_idoarjo Eka Mira"
+  },
+  {
+    "terminal_id": 30256,
+    "terminal_name": "Pejagan"
+  },
+  {
+    "terminal_id": 30257,
+    "terminal_name": "Jalur kota Bumi ayu"
+  },
+  {
+    "terminal_id": 30258,
+    "terminal_name": "Kota Sokaraja"
+  },
+  {
+    "terminal_id": 30259,
+    "terminal_name": "Terminal Secang"
+  },
+  {
+    "terminal_id": 30260,
+    "terminal_name": "Tanjung Jabung Barat"
+  },
+  {
+    "terminal_id": 30261,
+    "terminal_name": "Desa Merlung"
+  },
+  {
+    "terminal_id": 30262,
+    "terminal_name": "Banyuasin"
+  },
+  {
+    "terminal_id": 30263,
+    "terminal_name": "Jalur Betung"
+  },
+  {
+    "terminal_id": 30264,
+    "terminal_name": "Musi Banyuasin"
+  },
+  {
+    "terminal_id": 30265,
+    "terminal_name": "Kota Sungai lilin"
+  },
+  {
+    "terminal_id": 30266,
+    "terminal_name": "Indragiri Hulu"
+  },
+  {
+    "terminal_id": 30267,
+    "terminal_name": "Pematang Reba"
+  },
+  {
+    "terminal_id": 30268,
+    "terminal_name": "Japura(RM Simpang Raya)"
+  },
+  {
+    "terminal_id": 30269,
+    "terminal_name": "Kampar"
+  },
+  {
+    "terminal_id": 30270,
+    "terminal_name": "Kota Batak"
+  },
+  {
+    "terminal_id": 30271,
+    "terminal_name": "Petapahan"
+  },
+  {
+    "terminal_id": 30272,
+    "terminal_name": "Bandung soekarno hatta no 40"
+  },
+  {
+    "terminal_id": 30273,
+    "terminal_name": "Pasar Antri cimahi loket harum prima"
+  },
+  {
+    "terminal_id": 30274,
+    "terminal_name": "Terminal Purboyo Kota Madiun"
+  },
+  {
+    "terminal_id": 30276,
+    "terminal_name": "Terminal Gendingan"
+  },
+  {
+    "terminal_id": 30277,
+    "terminal_name": "Cimindi"
+  },
+  {
+    "terminal_id": 30278,
+    "terminal_name": "jl raya cimindi ( bawah flyover cimindi) loket harum prima"
+  },
+  {
+    "terminal_id": 30279,
+    "terminal_name": "Leuwi panjang"
+  },
+  {
+    "terminal_id": 30280,
+    "terminal_name": "Baso Margana prapatan Imanuel jalan BKR(leuwi Panjang)"
+  },
+  {
+    "terminal_id": 30281,
+    "terminal_name": "Rancaekek"
+  },
+  {
+    "terminal_id": 30282,
+    "terminal_name": "Jl raya rancaekek cipasir loket harum pirma (sebrang komplek permata hijau)"
+  },
+  {
+    "terminal_id": 30283,
+    "terminal_name": "Pool PO SAN Cileunyi"
+  },
+  {
+    "terminal_id": 30284,
+    "terminal_name": "Madura"
+  },
+  {
+    "terminal_id": 30285,
+    "terminal_name": "Pamekasan ( Terminal Pamekasan)"
+  },
+  {
+    "terminal_id": 30286,
+    "terminal_name": "Bangkalan ( jalan raya Kamal,Bangkalan,Jawa Timur)"
+  },
+  {
+    "terminal_id": 30287,
+    "terminal_name": "Sampang (Terminal Sampang, Polagan)"
+  },
+  {
+    "terminal_id": 30288,
+    "terminal_name": "Sumenep ( Terminal Sumenep)"
+  },
+  {
+    "terminal_id": 30297,
+    "terminal_name": "POOL WANGUN, JL. RAYA CIAWI - BOGOR"
+  },
+  {
+    "terminal_id": 30298,
+    "terminal_name": "Depok"
+  },
+  {
+    "terminal_id": 30299,
+    "terminal_name": "TAJUR, JL. RAYA TAJUR NO.69 BOGOR"
+  },
+  {
+    "terminal_id": 30300,
+    "terminal_name": "POOL CINANGKA, JL. M. TOHA KM1 CINANGKA - SAWANGAN"
+  },
+  {
+    "terminal_id": 30301,
+    "terminal_name": "Tangerang Selatan"
+  },
+  {
+    "terminal_id": 30302,
+    "terminal_name": "Serpong, BSD RUKO VILLA MELATI MAS"
+  },
+  {
+    "terminal_id": 30303,
+    "terminal_name": "Magetan"
+  },
+  {
+    "terminal_id": 30304,
+    "terminal_name": "Terminal Maospati loket No 2"
+  },
+  {
+    "terminal_id": 30305,
+    "terminal_name": "Terminal Kampung Rambutan"
+  },
+  {
+    "terminal_id": 30306,
+    "terminal_name": "TERMINAL LEMBANG, CILEDUG"
+  },
+  {
+    "terminal_id": 30307,
+    "terminal_name": "TERMINAL BUS MERAK Cilegon- BANTEN"
+  },
+  {
+    "terminal_id": 30308,
+    "terminal_name": "KANTOR, JL. ADE IRMA SURYANI NO.56 - MALANG"
+  },
+  {
+    "terminal_id": 30309,
+    "terminal_name": "VIVA, JL. TRUNOJOYO NO.35"
+  },
+  {
+    "terminal_id": 30310,
+    "terminal_name": "GELORA, JL. RAYA SINGOSARI NO.29"
+  },
+  {
+    "terminal_id": 30311,
+    "terminal_name": "HOTEL NIAGARA, JL. DR. SUTOMO NO.25-26 LAWANG"
+  },
+  {
+    "terminal_id": 30312,
+    "terminal_name": "ELIM, JL. DR. SUTOMO NO.66 LAWANG"
+  },
+  {
+    "terminal_id": 30313,
+    "terminal_name": "PANDAAN UTAMA, JL. RAYA RA. KARTINI NO.48 PANDAAN"
+  },
+  {
+    "terminal_id": 30314,
+    "terminal_name": "SARANA PANDAAN. BY PAS NO.19 PETUNG ASRI PANDAAN"
+  },
+  {
+    "terminal_id": 30315,
+    "terminal_name": "PRAKTIS APOLO, JL. RAYA SURABAYA - MALANG KM36 NO.1A GEMPOL, PASURUAN"
+  },
+  {
+    "terminal_id": 30316,
+    "terminal_name": "Agent Kramat Djati KM 9, Palembang"
+  },
+  {
+    "terminal_id": 30317,
+    "terminal_name": "Terminal Selo aji loket 01"
+  },
+  {
+    "terminal_id": 30318,
+    "terminal_name": "Dolopo Utara pasar Dolopo"
+  },
+  {
+    "terminal_id": 30319,
+    "terminal_name": "Perempatan pagotan, Pagotan"
+  },
+  {
+    "terminal_id": 30320,
+    "terminal_name": "Terminal Purabaya loket No 06"
+  },
+  {
+    "terminal_id": 30321,
+    "terminal_name": "Pertigaan Geneng, Geneng"
+  },
+  {
+    "terminal_id": 30322,
+    "terminal_name": "Terminal Kertanegara no5"
+  },
+  {
+    "terminal_id": 30323,
+    "terminal_name": "Plaza Ngawi no 9"
+  },
+  {
+    "terminal_id": 30324,
+    "terminal_name": "Terminal Gendingan kios 3"
+  },
+  {
+    "terminal_id": 30325,
+    "terminal_name": "Terminal Sterminal_idowayah kios 3"
+  },
+  {
+    "terminal_id": 30326,
+    "terminal_name": "Terminal Pilangsari no27"
+  },
+  {
+    "terminal_id": 30328,
+    "terminal_name": "Terminal Tirtonadi no30"
+  },
+  {
+    "terminal_id": 30329,
+    "terminal_name": "jln Ahmad Yani, Gondang no 234"
+  },
+  {
+    "terminal_id": 30330,
+    "terminal_name": "Kantor solo jln Ahmad Yani no 238gembong Kartosuro"
+  },
+  {
+    "terminal_id": 30331,
+    "terminal_name": "Terminal Kartasura"
+  },
+  {
+    "terminal_id": 30332,
+    "terminal_name": "Terminal Tingkir Salatiga loket 11"
+  },
+  {
+    "terminal_id": 30333,
+    "terminal_name": "Bawen gedung Aloket09"
+  },
+  {
+    "terminal_id": 30334,
+    "terminal_name": "Terminal Ungaran, Kios no25"
+  },
+  {
+    "terminal_id": 30335,
+    "terminal_name": "Krapyak Siliwangi no 379A"
+  },
+  {
+    "terminal_id": 30336,
+    "terminal_name": "Terminal Maospati loket No 7"
+  },
+  {
+    "terminal_id": 30337,
+    "terminal_name": "Terminal Kampung Rambutan"
+  },
+  {
+    "terminal_id": 30338,
+    "terminal_name": "Terminal Kertonegoro."
+  },
+  {
+    "terminal_id": 30339,
+    "terminal_name": "Plaza Ngawi no 9."
+  },
+  {
+    "terminal_id": 30340,
+    "terminal_name": "Terminal Sterminal_idowayah kios 3."
+  },
+  {
+    "terminal_id": 30341,
+    "terminal_name": "Terminal Gendingan kios 3."
+  },
+  {
+    "terminal_id": 30343,
+    "terminal_name": "Agen Kramat Djati PAL, Jl. Raya Bogor - Kelapa Dua (PAL Si Gunung)"
+  },
+  {
+    "terminal_id": 30344,
+    "terminal_name": "Jl Brigjen Katamso no 90, dalam SPBU katamso"
+  },
+  {
+    "terminal_id": 30345,
+    "terminal_name": "Jln Pramuka no 9 Tuparev, Cirebon"
+  },
+  {
+    "terminal_id": 30346,
+    "terminal_name": "Jalan raya jati krmat no 1 pondok gede, bekasi"
+  },
+  {
+    "terminal_id": 30347,
+    "terminal_name": "CIKARANG, pasir sari cikarang selatan agen kramat jati"
+  },
+  {
+    "terminal_id": 30348,
+    "terminal_name": "CIKOPO, jalan raya cikopo cikampek agent kramat djati"
+  },
+  {
+    "terminal_id": 30349,
+    "terminal_name": "Terminal Harjamukti Cirebon"
+  },
+  {
+    "terminal_id": 30350,
+    "terminal_name": "TEGAL, Jalan yos sudarso agen kramat djati"
+  },
+  {
+    "terminal_id": 30351,
+    "terminal_name": "SURADADI, agent kramat djati pasar suro dadi"
+  },
+  {
+    "terminal_id": 30352,
+    "terminal_name": "PEMALANG,agen kramat jati pemalang"
+  },
+  {
+    "terminal_id": 30353,
+    "terminal_name": "Terminal Bus Kota Pekalongan"
+  },
+  {
+    "terminal_id": 30354,
+    "terminal_name": "Kendal"
+  },
+  {
+    "terminal_id": 30355,
+    "terminal_name": "WELERI, Rm sari rasa weleri kendal"
+  },
+  {
+    "terminal_id": 30356,
+    "terminal_name": "Surabaya Gempol, Gerbang Tol Dupak"
+  },
+  {
+    "terminal_id": 30357,
+    "terminal_name": "Kota Pasuruan, Jawa timur"
+  },
+  {
+    "terminal_id": 30358,
+    "terminal_name": "Pelabuhan ASDP Ketapang Banyuwangi"
+  },
+  {
+    "terminal_id": 30359,
+    "terminal_name": "Bus Terminal Tuban"
+  },
+  {
+    "terminal_id": 30360,
+    "terminal_name": "Terminal Lamongan"
+  },
+  {
+    "terminal_id": 30361,
+    "terminal_name": "Pelabuhan Gilimanuk"
+  },
+  {
+    "terminal_id": 30362,
+    "terminal_name": "Agen Kramat Djati Medaeng"
+  },
+  {
+    "terminal_id": 30363,
+    "terminal_name": "Agen Kramat Djati Lintas Bandar Jaya Lampung"
+  },
+  {
+    "terminal_id": 30364,
+    "terminal_name": "agen Kramat Djati simpang mesuji"
+  },
+  {
+    "terminal_id": 30365,
+    "terminal_name": "Agen Kramat Djati dekat Universitas Islam OKI"
+  },
+  {
+    "terminal_id": 30366,
+    "terminal_name": "Agen Kramat Djati Jalan Raya Palur"
+  },
+  {
+    "terminal_id": 42655,
+    "terminal_name": "Kandis Kota"
+  },
+  {
+    "terminal_id": 30367,
+    "terminal_name": "Jalur lintas pemalang"
+  },
+  {
+    "terminal_id": 30368,
+    "terminal_name": "Jalur lintas tegal"
+  },
+  {
+    "terminal_id": 30369,
+    "terminal_name": "PRAKTIS APOLO, JL. RAYA SURABAYA - MALANG KM36 NO.1A GEMPOL, PASURUAN"
+  },
+  {
+    "terminal_id": 30370,
+    "terminal_name": "Arjuna, jalan arjuna no 15 surabaya"
+  },
+  {
+    "terminal_id": 30371,
+    "terminal_name": "plaza lamongan jalan blangit"
+  },
+  {
+    "terminal_id": 30372,
+    "terminal_name": "jln gajah mada, tuban yayuk jalan gajah mada, tuban remi "
+  },
+  {
+    "terminal_id": 30373,
+    "terminal_name": "Rm Dharma Raya Merak"
+  },
+  {
+    "terminal_id": 30374,
+    "terminal_name": "Dolopo, Utara pasar Dolopo, Agen kramat djati"
+  },
+  {
+    "terminal_id": 30375,
+    "terminal_name": "Keras pertigaan keras"
+  },
+  {
+    "terminal_id": 30376,
+    "terminal_name": "Geneng pertigaan Geneng"
+  },
+  {
+    "terminal_id": 30377,
+    "terminal_name": "Terminal Sterminal_idowayah"
+  },
+  {
+    "terminal_id": 30378,
+    "terminal_name": "Gontor depan Gontor 1"
+  },
+  {
+    "terminal_id": 30379,
+    "terminal_name": "Agen Kramat Djati Gondang jln Ahmad Yani no 234"
+  },
+  {
+    "terminal_id": 30380,
+    "terminal_name": "pintu toll jati warna, Bekasi,Agen kramat djati keluar"
+  },
+  {
+    "terminal_id": 30381,
+    "terminal_name": "pintu tol jati asih,Bekasi,Agen Kramat Djati"
+  },
+  {
+    "terminal_id": 30382,
+    "terminal_name": "jalan bulevard bintaro, Agen Kramat Djati"
+  },
+  {
+    "terminal_id": 30383,
+    "terminal_name": "Klari, Jalan raya Klari , Agen Bus Kramat Djati"
+  },
+  {
+    "terminal_id": 30384,
+    "terminal_name": "Persimpangan Bitung, Agen Bus Kramat Djati"
+  },
+  {
+    "terminal_id": 30385,
+    "terminal_name": "TERMINAL SERUNI"
+  },
+  {
+    "terminal_id": 30386,
+    "terminal_name": "Cilegon Barat, Agen Bus Kramat djati"
+  },
+  {
+    "terminal_id": 30387,
+    "terminal_name": "Subang"
+  },
+  {
+    "terminal_id": 30388,
+    "terminal_name": "jalan raya kali jati, Agen Bus Kramat Djati"
+  },
+  {
+    "terminal_id": 30389,
+    "terminal_name": "Serang"
+  },
+  {
+    "terminal_id": 30390,
+    "terminal_name": "Pintu toll Kragilan , Ciujung , Serang Banten"
+  },
+  {
+    "terminal_id": 30391,
+    "terminal_name": "Terminal Antar Kota Pakupatan Serang"
+  },
+  {
+    "terminal_id": 30392,
+    "terminal_name": "Terminal Bus Sadang Serang"
+  },
+  {
+    "terminal_id": 30393,
+    "terminal_name": "lamongan blangit jalan blangit"
+  },
+  {
+    "terminal_id": 30394,
+    "terminal_name": "jln gajah mada,Agen Kramat Djati"
+  },
+  {
+    "terminal_id": 30395,
+    "terminal_name": "tuban yayuk jalan gajah mada,Agen Kramat Djati"
+  },
+  {
+    "terminal_id": 30396,
+    "terminal_name": "Agen Kramat Djati,tuban remi"
+  },
+  {
+    "terminal_id": 30397,
+    "terminal_name": "Keras pertigaan keras"
+  },
+  {
+    "terminal_id": 30398,
+    "terminal_name": "Geneng pertigaan Geneng"
+  },
+  {
+    "terminal_id": 42688,
+    "terminal_name": "Pujud"
+  },
+  {
+    "terminal_id": 42717,
+    "terminal_name": "Simpang Ulim"
+  },
+  {
+    "terminal_id": 42718,
+    "terminal_name": "Simpang Dolok"
+  },
+  {
+    "terminal_id": 42719,
+    "terminal_name": "Kuala Simpang Ulim"
+  },
+  {
+    "terminal_id": 30435,
+    "terminal_name": "plaza lamongan"
+  },
+  {
+    "terminal_id": 30436,
+    "terminal_name": "jalan sokarno hatta agen kramat djati"
+  },
+  {
+    "terminal_id": 30437,
+    "terminal_name": "Simpang Dua Jalur Taba Mulan(Merigi)"
+  },
+  {
+    "terminal_id": 30439,
+    "terminal_name": "Sarolangun Bangko"
+  },
+  {
+    "terminal_id": 30440,
+    "terminal_name": "Jalur Lintas Kota Sarolangun"
+  },
+  {
+    "terminal_id": 30441,
+    "terminal_name": "Muaro Bungo"
+  },
+  {
+    "terminal_id": 30442,
+    "terminal_name": "Jalur Lintas Muaro Bungo"
+  },
+  {
+    "terminal_id": 30443,
+    "terminal_name": "Damasraya"
+  },
+  {
+    "terminal_id": 30444,
+    "terminal_name": "Jalur Simpang Damasraya"
+  },
+  {
+    "terminal_id": 30445,
+    "terminal_name": "Sijunjung"
+  },
+  {
+    "terminal_id": 30446,
+    "terminal_name": "Lintas Sijunjung"
+  },
+  {
+    "terminal_id": 30447,
+    "terminal_name": "Agen galekan jalan raya situbondo"
+  },
+  {
+    "terminal_id": 30448,
+    "terminal_name": "Bajul mati situbondo"
+  },
+  {
+    "terminal_id": 30449,
+    "terminal_name": "Rm puri tama pasir putih"
+  },
+  {
+    "terminal_id": 30450,
+    "terminal_name": "jalan veteran Pasuruan"
+  },
+  {
+    "terminal_id": 30451,
+    "terminal_name": "Jl.Surabaya-Situbondo km 140 Paiton"
+  },
+  {
+    "terminal_id": 30454,
+    "terminal_name": "Rawang Kao"
+  },
+  {
+    "terminal_id": 30455,
+    "terminal_name": "Jalan Desa Rawang Kao"
+  },
+  {
+    "terminal_id": 30456,
+    "terminal_name": "Tandun"
+  },
+  {
+    "terminal_id": 30457,
+    "terminal_name": "Jalan Desa Tandun"
+  },
+  {
+    "terminal_id": 30458,
+    "terminal_name": "Kasikan"
+  },
+  {
+    "terminal_id": 30459,
+    "terminal_name": "Jalan Kasikan"
+  },
+  {
+    "terminal_id": 30460,
+    "terminal_name": "suram"
+  },
+  {
+    "terminal_id": 30461,
+    "terminal_name": "Kota Suram"
+  },
+  {
+    "terminal_id": 30462,
+    "terminal_name": "Lahat"
+  },
+  {
+    "terminal_id": 30463,
+    "terminal_name": "Jalur Lintas Lahat"
+  },
+  {
+    "terminal_id": 30464,
+    "terminal_name": "jalan HM joyo martono no 47 Agen Malino Putra"
+  },
+  {
+    "terminal_id": 30465,
+    "terminal_name": "Terminal Klari"
+  },
+  {
+    "terminal_id": 30466,
+    "terminal_name": "karanganyar"
+  },
+  {
+    "terminal_id": 30467,
+    "terminal_name": "jalan Revolusi no 53 Agen Malino Putra"
+  },
+  {
+    "terminal_id": 30468,
+    "terminal_name": "sruweng"
+  },
+  {
+    "terminal_id": 30469,
+    "terminal_name": "jalan seruweng raya no 61"
+  },
+  {
+    "terminal_id": 30470,
+    "terminal_name": "jalan kutowinangun jagalan, Agen Malino Putra"
+  },
+  {
+    "terminal_id": 30471,
+    "terminal_name": "jalan dr wahterminal_idin, Agen Malino Putra"
+  },
+  {
+    "terminal_id": 30472,
+    "terminal_name": "jalan raya prembun 170  Agen Malino Putra"
+  },
+  {
+    "terminal_id": 30473,
+    "terminal_name": "klepu jalan raya kuto harjo  Agen malino Putra"
+  },
+  {
+    "terminal_id": 30474,
+    "terminal_name": "jalan diponegoro Agen malino Putra"
+  },
+  {
+    "terminal_id": 30475,
+    "terminal_name": "Terminal Gombong"
+  },
+  {
+    "terminal_id": 30476,
+    "terminal_name": "Terminal bobotsari"
+  },
+  {
+    "terminal_id": 30477,
+    "terminal_name": "Terminal Mantrianom"
+  },
+  {
+    "terminal_id": 30478,
+    "terminal_name": "terminal Bus Proyek Mrican"
+  },
+  {
+    "terminal_id": 30479,
+    "terminal_name": "Terminal Bus Mandi Raja"
+  },
+  {
+    "terminal_id": 30480,
+    "terminal_name": "Klampok"
+  },
+  {
+    "terminal_id": 30481,
+    "terminal_name": "agen malino klampok"
+  },
+  {
+    "terminal_id": 30482,
+    "terminal_name": "Terminal Bus Bukateja"
+  },
+  {
+    "terminal_id": 30483,
+    "terminal_name": "Terminal Bus Purwokerto"
+  },
+  {
+    "terminal_id": 30484,
+    "terminal_name": "Rm Selero Roso Aji Barang, Banyumas"
+  },
+  {
+    "terminal_id": 42773,
+    "terminal_name": "Idi"
+  },
+  {
+    "terminal_id": 42774,
+    "terminal_name": "Bank Mandiri KCP Idi Rayeuk"
+  },
+  {
+    "terminal_id": 42775,
+    "terminal_name": "Mesjterminal_id Agung Idi Rayeuk"
+  },
+  {
+    "terminal_id": 30488,
+    "terminal_name": "jembatan gantung, Agen Malino Putra"
+  },
+  {
+    "terminal_id": 42777,
+    "terminal_name": "Alue Buloh Satu"
+  },
+  {
+    "terminal_id": 30490,
+    "terminal_name": "Pool Malino Putra Cakung,  Jalan Raya Bekasi no 23"
+  },
+  {
+    "terminal_id": 42779,
+    "terminal_name": "Keude Kuta Binjai"
+  },
+  {
+    "terminal_id": 42783,
+    "terminal_name": "Bank Aceh Capem Panton Labu"
+  },
+  {
+    "terminal_id": 42788,
+    "terminal_name": "Kiliran Jao"
+  },
+  {
+    "terminal_id": 30504,
+    "terminal_name": "Teluk Gelam"
+  },
+  {
+    "terminal_id": 42793,
+    "terminal_name": "Agro Tani.UD"
+  },
+  {
+    "terminal_id": 30505,
+    "terminal_name": "Bunut"
+  },
+  {
+    "terminal_id": 30506,
+    "terminal_name": "siberuk"
+  },
+  {
+    "terminal_id": 42795,
+    "terminal_name": "Pegadaian UPS Gedong"
+  },
+  {
+    "terminal_id": 30507,
+    "terminal_name": "pematang tanggang"
+  },
+  {
+    "terminal_id": 30508,
+    "terminal_name": "Musi Rawas"
+  },
+  {
+    "terminal_id": 42797,
+    "terminal_name": "Peureulak"
+  },
+  {
+    "terminal_id": 30509,
+    "terminal_name": "tugu mulyo"
+  },
+  {
+    "terminal_id": 30510,
+    "terminal_name": "Tulang Bawang"
+  },
+  {
+    "terminal_id": 42799,
+    "terminal_name": "Rimbo Bujang"
+  },
+  {
+    "terminal_id": 30511,
+    "terminal_name": "Kayu Agung, Ogan Ilir"
+  },
+  {
+    "terminal_id": 42800,
+    "terminal_name": "Mandiri ATM KCP Jambi Rimbo Bujang"
+  },
+  {
+    "terminal_id": 30515,
+    "terminal_name": "Martapura.."
+  },
+  {
+    "terminal_id": 30516,
+    "terminal_name": "Lampung Utara"
+  },
+  {
+    "terminal_id": 42804,
+    "terminal_name": "Plaza Semanggi"
+  },
+  {
+    "terminal_id": 30517,
+    "terminal_name": "Kotabumi"
+  },
+  {
+    "terminal_id": 30518,
+    "terminal_name": "Bandar jaya"
+  },
+  {
+    "terminal_id": 30519,
+    "terminal_name": "Jalan Lintas bandar Jaya"
+  },
+  {
+    "terminal_id": 30520,
+    "terminal_name": "Bakauheni"
+  },
+  {
+    "terminal_id": 30521,
+    "terminal_name": "Pelabuhan Bakauheni"
+  },
+  {
+    "terminal_id": 30522,
+    "terminal_name": "Uluwatu"
+  },
+  {
+    "terminal_id": 30523,
+    "terminal_name": "Sterminal_idoarjo"
+  },
+  {
+    "terminal_id": 30524,
+    "terminal_name": "Medaeng"
+  },
+  {
+    "terminal_id": 30528,
+    "terminal_name": "Waru"
+  },
+  {
+    "terminal_id": 30529,
+    "terminal_name": "Sterminal_idorejo"
+  },
+  {
+    "terminal_id": 30530,
+    "terminal_name": "kemayoran"
+  },
+  {
+    "terminal_id": 30531,
+    "terminal_name": "Tegalega"
+  },
+  {
+    "terminal_id": 30532,
+    "terminal_name": "Kuningan"
+  },
+  {
+    "terminal_id": 30533,
+    "terminal_name": "Terminal Kuningan"
+  },
+  {
+    "terminal_id": 30547,
+    "terminal_name": "Agen kramat Djati BSD"
+  },
+  {
+    "terminal_id": 30548,
+    "terminal_name": "Agen Kramat Djati Vila Melati Mas"
+  },
+  {
+    "terminal_id": 30549,
+    "terminal_name": "Agen Kramat Djati liberty"
+  },
+  {
+    "terminal_id": 30550,
+    "terminal_name": "Ketanggungan"
+  },
+  {
+    "terminal_id": 30551,
+    "terminal_name": "Songgom"
+  },
+  {
+    "terminal_id": 30552,
+    "terminal_name": "Pool Kramat Djati Kemayoran"
+  },
+  {
+    "terminal_id": 30553,
+    "terminal_name": "Jati Lawang"
+  },
+  {
+    "terminal_id": 30554,
+    "terminal_name": "sumpiyuh"
+  },
+  {
+    "terminal_id": 30556,
+    "terminal_name": "Kantor Agen agra mas Gunung putri Bogor"
+  },
+  {
+    "terminal_id": 30557,
+    "terminal_name": "Kantor Agen agra mas Citereup"
+  },
+  {
+    "terminal_id": 30558,
+    "terminal_name": "Kantor Agen agra mas Bekasi Timur"
+  },
+  {
+    "terminal_id": 30559,
+    "terminal_name": "Kantor Agen agra mas Cibinong"
+  },
+  {
+    "terminal_id": 30560,
+    "terminal_name": "Kantor Agen agra mas Simpang Depok"
+  },
+  {
+    "terminal_id": 30561,
+    "terminal_name": "Terminal Pal Depok"
+  },
+  {
+    "terminal_id": 30562,
+    "terminal_name": "Kantor Agen agra mas Cibitung"
+  },
+  {
+    "terminal_id": 30563,
+    "terminal_name": "Kantor Agen agra mas Depok 2"
+  },
+  {
+    "terminal_id": 30564,
+    "terminal_name": "Kantor Agen agra mas Margonda"
+  },
+  {
+    "terminal_id": 30565,
+    "terminal_name": "Kantor Agen agra mas Lenteng Agung"
+  },
+  {
+    "terminal_id": 30566,
+    "terminal_name": "Kantor Agen agra mas Karawang Barat"
+  },
+  {
+    "terminal_id": 30567,
+    "terminal_name": "Sampang"
+  },
+  {
+    "terminal_id": 30568,
+    "terminal_name": "Jalan Lintas weleri"
+  },
+  {
+    "terminal_id": 30569,
+    "terminal_name": "Jalan Lintas Karang pucung"
+  },
+  {
+    "terminal_id": 30570,
+    "terminal_name": "Jalan Lintas Majenang"
+  },
+  {
+    "terminal_id": 30571,
+    "terminal_name": "Jalan Lintas jeruklegi"
+  },
+  {
+    "terminal_id": 30572,
+    "terminal_name": "Terminal Bus Cilacap"
+  },
+  {
+    "terminal_id": 30574,
+    "terminal_name": "Bulumanis"
+  },
+  {
+    "terminal_id": 30575,
+    "terminal_name": "pertigaan Wedari Jaksa"
+  },
+  {
+    "terminal_id": 30576,
+    "terminal_name": "Sleman"
+  },
+  {
+    "terminal_id": 30577,
+    "terminal_name": "Pertigaan Ngemplak"
+  },
+  {
+    "terminal_id": 30578,
+    "terminal_name": " TERMINAL CILENGSI"
+  },
+  {
+    "terminal_id": 30579,
+    "terminal_name": "SIMPANG TIGA CICADAS GUNUNG PUTRI"
+  },
+  {
+    "terminal_id": 30580,
+    "terminal_name": "JL RAYA MAYOR OKING  CITEREUP"
+  },
+  {
+    "terminal_id": 30582,
+    "terminal_name": "JL JOYO MARTONO NO 47 BEKASI"
+  },
+  {
+    "terminal_id": 30583,
+    "terminal_name": "JL RAYA SIMPANG TIGA CIBINONG"
+  },
+  {
+    "terminal_id": 30584,
+    "terminal_name": "JL RAYA BOGOR KM 29 PAL CIMANGGIS"
+  },
+  {
+    "terminal_id": 30585,
+    "terminal_name": "JL TEKU UMAR CIBITUNG"
+  },
+  {
+    "terminal_id": 30586,
+    "terminal_name": "GEDUNG TARGET JL PROKLAMASI RAYA DEPOK 2 "
+  },
+  {
+    "terminal_id": 30587,
+    "terminal_name": "JL MARGONDA RAYA  PANCORAN MAS"
+  },
+  {
+    "terminal_id": 30588,
+    "terminal_name": "JL RAYA UNIVERSITAS PANCASILA NO 8B SRENGSENG "
+  },
+  {
+    "terminal_id": 30589,
+    "terminal_name": "JL RAYA PERUMNAS NO 235  TELUK JAMBE"
+  },
+  {
+    "terminal_id": 30590,
+    "terminal_name": "JL KH ABDULAH TERMINAL BUBULAK"
+  },
+  {
+    "terminal_id": 30591,
+    "terminal_name": "JL PANGKALAN RAYA NO 1 WARUNG JAMBU"
+  },
+  {
+    "terminal_id": 30592,
+    "terminal_name": "JL KS TUBUN SIMPANG POMAD NO 58 "
+  },
+  {
+    "terminal_id": 30593,
+    "terminal_name": "JL kandang roda Bogor"
+  },
+  {
+    "terminal_id": 30594,
+    "terminal_name": "JL RAYA JAKARTA BOGOR KM 35 PERUMAHAN JATIJAJAR"
+  },
+  {
+    "terminal_id": 30595,
+    "terminal_name": "Pool Agra Mas SAREAL BOGOR"
+  },
+  {
+    "terminal_id": 30596,
+    "terminal_name": "JL RAYA CIKAMPEK-KLARI KRAWANG"
+  },
+  {
+    "terminal_id": 30597,
+    "terminal_name": "JL CIPUTAT RAYA NO 7 PONDOK PINANG JAK SEL"
+  },
+  {
+    "terminal_id": 30599,
+    "terminal_name": "Karawang timur Rest area km 57"
+  },
+  {
+    "terminal_id": 30600,
+    "terminal_name": "KODAM BINTARO PESANGGRAHAN NO 19"
+  },
+  {
+    "terminal_id": 30601,
+    "terminal_name": "Pasar parung"
+  },
+  {
+    "terminal_id": 30602,
+    "terminal_name": "Terminal pondok cabe"
+  },
+  {
+    "terminal_id": 30603,
+    "terminal_name": "Jalan ciputat barat pom bensin ciputat"
+  },
+  {
+    "terminal_id": 30604,
+    "terminal_name": "POL AKAP LEMBANG CILEDUK"
+  },
+  {
+    "terminal_id": 30605,
+    "terminal_name": "JL CILEDUK RAYA NO 75 DEPAN RS AMINAH"
+  },
+  {
+    "terminal_id": 42966,
+    "terminal_name": "Mall@ Bassura City"
+  },
+  {
+    "terminal_id": 28647,
+    "terminal_name": "Bogor"
+  },
+  {
+    "terminal_id": 28648,
+    "terminal_name": "Bogor,Jawa Barat"
+  },
+  {
+    "terminal_id": 28649,
+    "terminal_name": "Cileungsi"
+  },
+  {
+    "terminal_id": 28650,
+    "terminal_name": "Cileungsi,Jawa Barat"
+  },
+  {
+    "terminal_id": 28651,
+    "terminal_name": "Cibitung"
+  },
+  {
+    "terminal_id": 28652,
+    "terminal_name": "Cibitung,Jawa Barat"
+  },
+  {
+    "terminal_id": 28653,
+    "terminal_name": "CibitungJawa Barat"
+  },
+  {
+    "terminal_id": 28654,
+    "terminal_name": "Tangerang"
+  },
+  {
+    "terminal_id": 28655,
+    "terminal_name": "Tangerang."
+  },
+  {
+    "terminal_id": 28657,
+    "terminal_name": "Bekasi,Jawa Barat"
+  },
+  {
+    "terminal_id": 28658,
+    "terminal_name": "Sumenep"
+  },
+  {
+    "terminal_id": 42994,
+    "terminal_name": "terminal tirtonadi"
+  },
+  {
+    "terminal_id": 42995,
+    "terminal_name": "Slawi"
+  },
+  {
+    "terminal_id": 28659,
+    "terminal_name": "Sumenep,Jawa Timur"
+  },
+  {
+    "terminal_id": 28660,
+    "terminal_name": "Banyuwangi"
+  },
+  {
+    "terminal_id": 28661,
+    "terminal_name": "Banyuwangi,Jawa Timur"
+  },
+  {
+    "terminal_id": 28662,
+    "terminal_name": "Cilegon"
+  },
+  {
+    "terminal_id": 28663,
+    "terminal_name": "Cilegon,Banten"
+  },
+  {
+    "terminal_id": 28664,
+    "terminal_name": "Bangkalan"
+  },
+  {
+    "terminal_id": 28665,
+    "terminal_name": "Bangkalan,Jawa Timur"
+  },
+  {
+    "terminal_id": 28666,
+    "terminal_name": "Sampang"
+  },
+  {
+    "terminal_id": 28667,
+    "terminal_name": "Sampang,Jawa Timur"
+  },
+  {
+    "terminal_id": 28668,
+    "terminal_name": "Prabumulih"
+  },
+  {
+    "terminal_id": 28669,
+    "terminal_name": "Prabumulih,South Sumatra"
+  },
+  {
+    "terminal_id": 28670,
+    "terminal_name": "Blora"
+  },
+  {
+    "terminal_id": 28671,
+    "terminal_name": "Blora,Jawa Tengah"
+  }
+]
